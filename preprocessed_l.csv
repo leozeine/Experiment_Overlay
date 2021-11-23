@@ -1,0 +1,1005 @@
+,participant,soundsA,A.rt,B.rt,C.rt,resposta,quest.rt,frase,foco,condicao
+5,Leticia_2511,l_selecao_v1_wav/L_109A.wav,1.07944,1.94403,0.96035,s,1.0038,L_109,foco,S_CE
+8,Leticia_2511,l_selecao_v1_wav/L_94A.wav,0.65257,0.71876,0.758215,s,1.21395,L_94,foco,A_EC
+10,Leticia_2511,l_selecao_v1_wav/L_49A.wav,1.128935,0.40926,0.683385,s,0.772675,L_49,foco,S_CE
+12,Leticia_2511,l_selecao_v1_wav/L_77A.wav,0.72254,0.433905,0.443615,s,0.802755,L_77,foco,C
+13,Leticia_2511,l_selecao_v1_wav/L_29A.wav,0.922965,0.653115,0.778515,s,1.23339,L_29,foco,C
+14,Leticia_2511,l_selecao_v1_wav/L_99A.wav,2.66385,1.088275,0.93643,n,0.73656,L_99,foco,A_CE
+16,Leticia_2511,l_selecao_v1_wav/L_39A.wav,0.70351,0.770665,0.85241,n,0.636485,L_39,foco,A_CE
+18,Leticia_2511,l_selecao_v1_wav/L_58A.wav,0.746655,0.51113,0.471035,n,0.602495,L_58,foco,A_EC
+21,Leticia_2511,l_selecao_v1_wav/L_104A.wav,0.939695,0.32021,0.77041,s,0.419315,L_104,foco,S_EC
+22,Leticia_2511,l_selecao_v1_wav/L_120A.wav,0.61906,0.40362,384,s,0.60667,L_120,foco,E
+25,Leticia_2511,l_selecao_v1_wav/L_34A.wav,0.67011,1.825305,0.65194,n,0.51104,L_34,foco,A_EC
+27,Leticia_2511,l_selecao_v1_wav/L_7A.wav,1.18244,0.41072,0.480685,s,0.38138,L_7,foco,S_CE
+32,Leticia_2511,l_selecao_v1_wav/L_24A.wav,0.46924,0.297045,0.385225,s,0.64265,L_24,foco,E
+35,Leticia_2511,l_selecao_v1_wav/L_86A.wav,0.75258,0.356005,0.521785,s,0.75379,L_86,foco,S_EC
+37,Leticia_2511,l_selecao_v1_wav/L_2A.wav,0.73659,0.39422,0.9537,s,0.50256,L_2,foco,S_EC
+42,Leticia_2511,l_selecao_v1_wav/L_141A.wav,0.33953,0.47536,0.71988,n,0.61822,L_141,foco,A_CE
+5,Gabi_1412,l_selecao_v1_wav/L_111A.wav,0.806175,1.93388,0.609415,n,3.1575,L_111,foco,A_CE
+8,Gabi_1412,l_selecao_v1_wav/L_96A.wav,0.285045,0.64491,0.67588,n,1.09003,L_96,foco,E
+10,Gabi_1412,l_selecao_v1_wav/L_51A.wav,0.303595,0.70201,1.97766,n,0.648105,L_51,foco,A_CE
+12,Gabi_1412,l_selecao_v1_wav/L_73A.wav,0.30896,0.84631,0.907895,n,1.864055,L_73,foco,S_CE
+13,Gabi_1412,l_selecao_v1_wav/L_25A.wav,0.148015,0.744995,0.77046,n,3.926585,L_25,foco,S_CE
+14,Gabi_1412,l_selecao_v1_wav/L_101A.wav,0.402535,0.219315,0.42048,s,2.43228,L_101,foco,C
+16,Gabi_1412,l_selecao_v1_wav/L_41A.wav,0.507955,0.70207,0.30879,n,1.15181,L_41,foco,C
+18,Gabi_1412,l_selecao_v1_wav/L_60A.wav,0.05875,1.22806,0.02557,n,0.86624,L_60,foco,E
+21,Gabi_1412,l_selecao_v1_wav/L_106A.wav,0.20122,0.1429,0.392765,s,0.70902,L_106,foco,A_EC
+22,Gabi_1412,l_selecao_v1_wav/L_116A.wav,0.225785,0.62021,0.54494,s,0.6346,L_116,foco,S_EC
+25,Gabi_1412,l_selecao_v1_wav/L_36A.wav,0.454685,0.700495,0.152005,n,0.755945,L_36,foco,E
+27,Gabi_1412,l_selecao_v1_wav/L_9A.wav,0.62797,0.03917,0.347295,n,0.58128,L_9,foco,A_CE
+32,Gabi_1412,l_selecao_v1_wav/L_20A.wav,0.53804,0.36205,0.3111,s,0.638215,L_20,foco,S_EC
+35,Gabi_1412,l_selecao_v1_wav/L_88A.wav,0.7601,0.35144,0.46357,s,0.846425,L_88,foco,A_EC
+37,Gabi_1412,l_selecao_v1_wav/L_4A.wav,0.50242,0.3626,0.58394,s,3.36178,L_4,foco,A_EC
+42,Gabi_1412,l_selecao_v1_wav/L_143A.wav,0.38244,0.624145,0.602385,n,0.38084,L_143,foco,C
+5,Gabriel_1412,l_selecao_v1_wav/L_111A.wav,673,1709,1708,n,746,L_111,foco,A_CE
+8,Gabriel_1412,l_selecao_v1_wav/L_96A.wav,542,446,943,n,3176,L_96,foco,E
+10,Gabriel_1412,l_selecao_v1_wav/L_51A.wav,2174,1909,1413,s,4425,L_51,foco,A_CE
+12,Gabriel_1412,l_selecao_v1_wav/L_73A.wav,778,1091,2325,n,1709,L_73,foco,S_CE
+13,Gabriel_1412,l_selecao_v1_wav/L_25A.wav,1859,627,524,n,2.56,L_25,foco,S_CE
+14,Gabriel_1412,l_selecao_v1_wav/L_101A.wav,893,443,178,s,1794,L_101,foco,C
+16,Gabriel_1412,l_selecao_v1_wav/L_41A.wav,876,908,1274,s,3576,L_41,foco,C
+18,Gabriel_1412,l_selecao_v1_wav/L_60A.wav,758,1008,424,n,1824,L_60,foco,E
+21,Gabriel_1412,l_selecao_v1_wav/L_106A.wav,925,0.38,877,s,1.38,L_106,foco,A_EC
+22,Gabriel_1412,l_selecao_v1_wav/L_116A.wav,0.71,727,2942,s,1359,L_116,foco,S_EC
+25,Gabriel_1412,l_selecao_v1_wav/L_36A.wav,2226,514,377,n,5715,L_36,foco,E
+27,Gabriel_1412,l_selecao_v1_wav/L_9A.wav,1131,511,3411,s,2.36,L_9,foco,A_CE
+32,Gabriel_1412,l_selecao_v1_wav/L_20A.wav,1944,1776,1813,s,3331,L_20,foco,S_EC
+35,Gabriel_1412,l_selecao_v1_wav/L_88A.wav,1043,158,758,s,2.31,L_88,foco,A_EC
+37,Gabriel_1412,l_selecao_v1_wav/L_4A.wav,992,108,1292,s,1757,L_4,foco,A_EC
+42,Gabriel_1412,l_selecao_v1_wav/L_143A.wav,1109,1075,442,s,1547,L_143,foco,C
+5,Nayara_01dez,l_selecao_v1_wav/L_113A.wav,0.673605,0.702335,0.68409,s,0.83628,L_113,foco,C
+8,Nayara_01dez,l_selecao_v1_wav/L_92A.wav,0.404265,0.701845,2.08434,n,2.784585,L_92,foco,S_EC
+10,Nayara_01dez,l_selecao_v1_wav/L_53A.wav,1.5747,0.6001,0.88387,s,1.057315,L_53,foco,C
+12,Nayara_01dez,l_selecao_v1_wav/L_75A.wav,1.022595,0.72847,2.18049,n,0.67702,L_75,foco,A_CE
+13,Nayara_01dez,l_selecao_v1_wav/L_27A.wav,0.784505,0.717465,1.35049,n,817,L_27,foco,A_CE
+14,Nayara_01dez,l_selecao_v1_wav/L_97A.wav,0.450915,0.867395,1.26683,n,0.66764,L_97,foco,S_CE
+16,Nayara_01dez,l_selecao_v1_wav/L_37A.wav,1.08547,0.75341,1.571265,n,1.06048,L_37,foco,S_CE
+18,Nayara_01dez,l_selecao_v1_wav/L_56A.wav,0.73398,0.6454,1.65816,s,1.103415,L_56,foco,S_EC
+21,Nayara_01dez,l_selecao_v1_wav/L_108A.wav,0.80064,0.58471,0.85794,n,1.42504,L_108,foco,E
+22,Nayara_01dez,l_selecao_v1_wav/L_118A.wav,1.341995,0.503035,1.06244,s,2.43218,L_118,foco,A_EC
+25,Nayara_01dez,l_selecao_v1_wav/L_32A.wav,0.516265,0.419695,0.87251,s,3.03214,L_32,foco,S_EC
+27,Nayara_01dez,l_selecao_v1_wav/L_11A.wav,0.554345,1.188125,0.99632,s,3.18926,L_11,foco,C
+32,Nayara_01dez,l_selecao_v1_wav/L_22A.wav,0.52579,0.666305,0.78548,s,0.63793,L_22,foco,A_EC
+35,Nayara_01dez,l_selecao_v1_wav/L_90A.wav,0.65599,0.63087,0.799975,n,0.86296,L_90,foco,E
+37,Nayara_01dez,l_selecao_v1_wav/L_6A.wav,0.28813,0.510485,0.907795,n,3.87935,L_6,foco,E
+42,Nayara_01dez,l_selecao_v1_wav/L_139A.wav,0.423625,0.292835,0.91479,n,0.635165,L_139,foco,S_CE
+5,thais_0112,l_selecao_v1_wav/L_113A.wav,0.6518,0.323285,0.887365,s,1.17059,L_113,foco,C
+8,thais_0112,l_selecao_v1_wav/L_92A.wav,1.77262,0.621165,0.89101,s,0.925545,L_92,foco,S_EC
+10,thais_0112,l_selecao_v1_wav/L_53A.wav,0.92245,0.6536,0.937795,s,2.405165,L_53,foco,C
+12,thais_0112,l_selecao_v1_wav/L_75A.wav,2.145875,1.976255,1.48797,n,5.853055,L_75,foco,A_CE
+13,thais_0112,l_selecao_v1_wav/L_27A.wav,2.289045,0.917705,1.036925,n,0.970765,L_27,foco,A_CE
+14,thais_0112,l_selecao_v1_wav/L_97A.wav,0.65349,1.12329,0.936695,s,1.09285,L_97,foco,S_CE
+16,thais_0112,l_selecao_v1_wav/L_37A.wav,0.72528,1.38824,1.83128,n,1.422775,L_37,foco,S_CE
+18,thais_0112,l_selecao_v1_wav/L_56A.wav,1.773475,1.31494,1.13808,s,4.552265,L_56,foco,S_EC
+21,thais_0112,l_selecao_v1_wav/L_108A.wav,0.65511,0.678845,0.825315,s,2.147575,L_108,foco,E
+22,thais_0112,l_selecao_v1_wav/L_118A.wav,1.23757,0.71979,0.970755,n,1.003735,L_118,foco,A_EC
+25,thais_0112,l_selecao_v1_wav/L_32A.wav,1.08755,0.7638,2.0068,s,1.201595,L_32,foco,S_EC
+27,thais_0112,l_selecao_v1_wav/L_11A.wav,0.47386,0.68657,1.438555,s,1.29792,L_11,foco,C
+32,thais_0112,l_selecao_v1_wav/L_22A.wav,0.987695,0.736515,0.673915,s,0.8856,L_22,foco,A_EC
+35,thais_0112,l_selecao_v1_wav/L_90A.wav,0.635735,1.820885,1.12729,n,1.62153,L_90,foco,E
+37,thais_0112,l_selecao_v1_wav/L_6A.wav,1.0209,0.820485,1.00674,s,1.37213,L_6,foco,E
+42,thais_0112,l_selecao_v1_wav/L_139A.wav,0.77152,2.25781,1.570555,s,5.54354,L_139,foco,S_CE
+5,Isabela_0812,l_selecao_v1_wav/L_111A.wav,0.751275,1.93552,0.823925,n,1.4359,L_111,foco,A_CE
+8,Isabela_0812,l_selecao_v1_wav/L_96A.wav,1.41581,1.231765,1.238195,n,1.32718,L_96,foco,E
+10,Isabela_0812,l_selecao_v1_wav/L_51A.wav,0.77255,1.80942,1.27735,n,1.55521,L_51,foco,A_CE
+12,Isabela_0812,l_selecao_v1_wav/L_73A.wav,0.6588,1.66041,0.974675,s,3.636215,L_73,foco,S_CE
+13,Isabela_0812,l_selecao_v1_wav/L_25A.wav,1.30778,1.127505,1.128265,s,3.014965,L_25,foco,S_CE
+14,Isabela_0812,l_selecao_v1_wav/L_101A.wav,1.08921,0.913755,0.90553,s,0.897275,L_101,foco,C
+16,Isabela_0812,l_selecao_v1_wav/L_41A.wav,1.088615,0.625915,0.762805,s,1.705135,L_41,foco,C
+18,Isabela_0812,l_selecao_v1_wav/L_60A.wav,1.372415,1.431595,0.73637,n,1.727285,L_60,foco,E
+21,Isabela_0812,l_selecao_v1_wav/L_106A.wav,1.180225,1.1567,1.23665,s,1.896845,L_106,foco,A_EC
+22,Isabela_0812,l_selecao_v1_wav/L_116A.wav,1.787735,1.06176,0.99764,s,1.60059,L_116,foco,S_EC
+25,Isabela_0812,l_selecao_v1_wav/L_36A.wav,1.302765,1.52037,0.69308,n,2.338955,L_36,foco,E
+27,Isabela_0812,l_selecao_v1_wav/L_9A.wav,0.737045,0.809585,0.939485,n,1.432195,L_9,foco,A_CE
+32,Isabela_0812,l_selecao_v1_wav/L_20A.wav,1.154465,1.84119,1.540345,n,0.83154,L_20,foco,S_EC
+35,Isabela_0812,l_selecao_v1_wav/L_88A.wav,2.07484,1.343835,1.840515,s,1.605735,L_88,foco,A_EC
+37,Isabela_0812,l_selecao_v1_wav/L_4A.wav,0.825565,1.68823,0.98699,s,1.78901,L_4,foco,A_EC
+42,Isabela_0812,l_selecao_v1_wav/L_143A.wav,1.159195,1.47811,1.14706,n,1.474145,L_143,foco,C
+5,gabriel_0112,l_selecao_v1_wav/L_112A.wav,0.62,406,705,n,8249,L_112,foco,A_EC
+8,gabriel_0112,l_selecao_v1_wav/L_91A.wav,0.37,422,1999,n,519,L_91,foco,S_CE
+10,gabriel_0112,l_selecao_v1_wav/L_52A.wav,1319,872,355,s,538,L_52,foco,A_EC
+12,gabriel_0112,l_selecao_v1_wav/L_74A.wav,504,503,735,s,503,L_74,foco,S_EC
+13,gabriel_0112,l_selecao_v1_wav/L_26A.wav,619,0.54,254,s,1318,L_26,foco,S_EC
+14,gabriel_0112,l_selecao_v1_wav/L_102A.wav,769,502,472,n,506,L_102,foco,E
+16,gabriel_0112,l_selecao_v1_wav/L_42A.wav,857,635,356,n,553,L_42,foco,E
+18,gabriel_0112,l_selecao_v1_wav/L_55A.wav,604,437,0.42,n,0.72,L_55,foco,S_CE
+21,gabriel_0112,l_selecao_v1_wav/L_107A.wav,0.82,401,969,s,2137,L_107,foco,C
+22,gabriel_0112,l_selecao_v1_wav/L_117A.wav,702,205,851,n,0.49,L_117,foco,A_CE
+25,gabriel_0112,l_selecao_v1_wav/L_31A.wav,868,288,557,n,733,L_31,foco,S_CE
+27,gabriel_0112,l_selecao_v1_wav/L_10A.wav,551,499,755,s,685,L_10,foco,A_EC
+32,gabriel_0112,l_selecao_v1_wav/L_21A.wav,769,0.09,453,n,787,L_21,foco,A_CE
+35,gabriel_0112,l_selecao_v1_wav/L_89A.wav,668,268,371,s,1588,L_89,foco,C
+37,gabriel_0112,l_selecao_v1_wav/L_5A.wav,688,637,569,s,1335,L_5,foco,C
+42,gabriel_0112,l_selecao_v1_wav/L_144A.wav,685,306,574,n,455,L_144,foco,E
+5,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_112A.wav,0.154585,0.267695,0.10149,s,0.485935,L_112,foco,A_EC
+8,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_91A.wav,0.300285,0.1984,0.90074,n,0.571075,L_91,foco,S_CE
+10,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_52A.wav,0.61843,0.450925,0.783415,s,0.3836,L_52,foco,A_EC
+12,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_74A.wav,0.31232,0.279885,0.83811,s,0.40218,L_74,foco,S_EC
+13,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_26A.wav,1.05251,0.355045,0.255035,s,0.40054,L_26,foco,S_EC
+14,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_102A.wav,0.75308,0.78029,0.749695,n,0.448625,L_102,foco,E
+16,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_42A.wav,0.4839,1.090845,0.363695,n,0.43189,L_42,foco,E
+18,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_55A.wav,0.52157,0.366695,0.247585,n,0.436825,L_55,foco,S_CE
+21,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_107A.wav,0.367305,0.66753,0.588265,s,0.9346,L_107,foco,C
+22,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_117A.wav,0.316985,0.250075,0.695885,n,0.916455,L_117,foco,A_CE
+25,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_31A.wav,0.846515,0.12026,0.13376,s,0.65287,L_31,foco,S_CE
+27,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_10A.wav,0.20307,0.42143,0.15099,s,0.351035,L_10,foco,A_EC
+32,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_21A.wav,0.487405,0.39945,0.581015,s,1.02988,L_21,foco,A_CE
+35,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_89A.wav,0.829475,1.053565,0.72119,s,0.332985,L_89,foco,C
+37,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_5A.wav,1.23451,0.88336,0.396215,s,0.40149,L_5,foco,C
+42,fred_dragoon_lord_of_the_internet_0112,l_selecao_v1_wav/L_144A.wav,0.470235,0.818115,0.76909,n,0.381765,L_144,foco,E
+5,jhen_2511,l_selecao_v1_wav/L_109A.wav,0.715265,0.868505,0.368945,n,1.722485,L_109,foco,S_CE
+8,jhen_2511,l_selecao_v1_wav/L_94A.wav,0.751785,2.1872,0.969795,s,6.403015,L_94,foco,A_EC
+10,jhen_2511,l_selecao_v1_wav/L_49A.wav,1.05249,1.283775,1.56823,s,6.29088,L_49,foco,S_CE
+12,jhen_2511,l_selecao_v1_wav/L_77A.wav,1.084595,0.81662,0.715075,s,0.667115,L_77,foco,C
+13,jhen_2511,l_selecao_v1_wav/L_29A.wav,0.74975,0.466485,0.48272,s,0.88716,L_29,foco,C
+14,jhen_2511,l_selecao_v1_wav/L_99A.wav,0.68789,1.08269,0.885595,s,8.20961,L_99,foco,A_CE
+16,jhen_2511,l_selecao_v1_wav/L_39A.wav,0.7666,1.636565,0.6042,s,2.112855,L_39,foco,A_CE
+18,jhen_2511,l_selecao_v1_wav/L_58A.wav,15.68114,0.966035,0.871705,n,1.39169,L_58,foco,A_EC
+21,jhen_2511,l_selecao_v1_wav/L_104A.wav,0.75758,0.249155,0.158075,s,0.571245,L_104,foco,S_EC
+22,jhen_2511,l_selecao_v1_wav/L_120A.wav,0.35459,0.985155,0.286555,n,1.76012,L_120,foco,E
+25,jhen_2511,l_selecao_v1_wav/L_34A.wav,0.60567,0.24633,0.733855,n,0.540095,L_34,foco,A_EC
+27,jhen_2511,l_selecao_v1_wav/L_7A.wav,0.35242,1.11976,0.52902,s,4.45881,L_7,foco,S_CE
+32,jhen_2511,l_selecao_v1_wav/L_24A.wav,0.952375,0.648885,0.535815,n,1.7928,L_24,foco,E
+35,jhen_2511,l_selecao_v1_wav/L_86A.wav,0.518295,1.200145,1.23726,s,1.46871,L_86,foco,S_EC
+37,jhen_2511,l_selecao_v1_wav/L_2A.wav,0.36855,0.702575,0.23562,s,1.033955,L_2,foco,S_EC
+42,jhen_2511,l_selecao_v1_wav/L_141A.wav,0.588115,1.133305,1.66734,s,2.272935,L_141,foco,A_CE
+5,Pedro_1412,l_selecao_v1_wav/L_111A.wav,1.239565,2.06637,3.219595,n,4.377025,L_111,foco,A_CE
+8,Pedro_1412,l_selecao_v1_wav/L_96A.wav,1.483325,1.28941,2.98308,n,2.78409,L_96,foco,E
+10,Pedro_1412,l_selecao_v1_wav/L_51A.wav,1.246595,1.72226,0.93693,n,4.137665,L_51,foco,A_CE
+12,Pedro_1412,l_selecao_v1_wav/L_73A.wav,1.41836,1.47713,0.87751,n,7.418745,L_73,foco,S_CE
+13,Pedro_1412,l_selecao_v1_wav/L_25A.wav,1.72738,2.858845,0.63683,n,7.5959,L_25,foco,S_CE
+14,Pedro_1412,l_selecao_v1_wav/L_101A.wav,2.585115,2.48702,1.267225,s,1.538685,L_101,foco,C
+16,Pedro_1412,l_selecao_v1_wav/L_41A.wav,1.31703,1.295035,1.11209,s,8.07681,L_41,foco,C
+18,Pedro_1412,l_selecao_v1_wav/L_60A.wav,1.33443,2.33409,1.48501,n,2.48574,L_60,foco,E
+21,Pedro_1412,l_selecao_v1_wav/L_106A.wav,1.26006,0.96352,1.023225,s,0.86775,L_106,foco,A_EC
+22,Pedro_1412,l_selecao_v1_wav/L_116A.wav,0.99195,1.283395,0.931625,s,0.85071,L_116,foco,S_EC
+25,Pedro_1412,l_selecao_v1_wav/L_36A.wav,0.900355,1.88455,0.98076,n,0.90527,L_36,foco,E
+27,Pedro_1412,l_selecao_v1_wav/L_9A.wav,0.829145,1.383525,0.69105,n,0.73298,L_9,foco,A_CE
+32,Pedro_1412,l_selecao_v1_wav/L_20A.wav,0.51227,0.68644,0.30661,s,0.367855,L_20,foco,S_EC
+35,Pedro_1412,l_selecao_v1_wav/L_88A.wav,0.568655,1.05564,0.6482,s,0.817255,L_88,foco,A_EC
+37,Pedro_1412,l_selecao_v1_wav/L_4A.wav,0.625705,1.01922,0.408865,s,0.47364,L_4,foco,A_EC
+42,Pedro_1412,l_selecao_v1_wav/L_143A.wav,0.97589,0.442945,0.383425,s,0.440855,L_143,foco,C
+5,Nicolli,l_selecao_v1_wav/L_112A.wav,1.43665,4.91634,3.587195,n,1.400195,L_112,foco,A_EC
+8,Nicolli,l_selecao_v1_wav/L_91A.wav,0.637475,2.25649,1.49321,s,0.683865,L_91,foco,S_CE
+10,Nicolli,l_selecao_v1_wav/L_52A.wav,0.80073,3.651155,1.59172,n,0.72615,L_52,foco,A_EC
+12,Nicolli,l_selecao_v1_wav/L_74A.wav,1.62354,2.610385,1.003615,s,0.82109,L_74,foco,S_EC
+13,Nicolli,l_selecao_v1_wav/L_26A.wav,0.63336,1.25323,1.38759,n,8.50805,L_26,foco,S_EC
+14,Nicolli,l_selecao_v1_wav/L_102A.wav,0.850695,1.89341,0.37115,s,1.78442,L_102,foco,E
+16,Nicolli,l_selecao_v1_wav/L_42A.wav,0.587425,0.468085,2.53726,n,1.377885,L_42,foco,E
+18,Nicolli,l_selecao_v1_wav/L_55A.wav,0.402275,4.67751,1.65425,s,4.17669,L_55,foco,S_CE
+21,Nicolli,l_selecao_v1_wav/L_107A.wav,0.668185,0.401475,0.253685,s,1.469445,L_107,foco,C
+22,Nicolli,l_selecao_v1_wav/L_117A.wav,0.549845,1.2515,1.1014,n,2.518665,L_117,foco,A_CE
+25,Nicolli,l_selecao_v1_wav/L_31A.wav,0.72337,0.83427,0.38758,s,3.149955,L_31,foco,S_CE
+27,Nicolli,l_selecao_v1_wav/L_10A.wav,0.654965,0.786195,0.983495,s,7.07506,L_10,foco,A_EC
+32,Nicolli,l_selecao_v1_wav/L_21A.wav,1.450085,0.51699,0.8815,n,0.50047,L_21,foco,A_CE
+35,Nicolli,l_selecao_v1_wav/L_89A.wav,0.325185,0.36084,0.73359,s,1.63894,L_89,foco,C
+37,Nicolli,l_selecao_v1_wav/L_5A.wav,0.470055,0.3933,0.32184,s,2.503495,L_5,foco,C
+42,Nicolli,l_selecao_v1_wav/L_144A.wav,0.57871,1.035175,1.29039,n,2.717005,L_144,foco,E
+5,SAMUEL_2511,l_selecao_v1_wav/L_110A.wav,0.4455,0.956465,0.72383,n,0.650785,L_110,foco,S_EC
+8,SAMUEL_2511,l_selecao_v1_wav/L_95A.wav,0.501905,0.34609,0.20011,s,0.788545,L_95,foco,C
+10,SAMUEL_2511,l_selecao_v1_wav/L_50A.wav,0.53715,0.461105,0.858745,n,2.18504,L_50,foco,S_EC
+12,SAMUEL_2511,l_selecao_v1_wav/L_78A.wav,0.435325,0.52194,0.53429,n,0.86688,L_78,foco,E
+13,SAMUEL_2511,l_selecao_v1_wav/L_30A.wav,0.33365,0.285245,0.109095,n,1.992295,L_30,foco,E
+14,SAMUEL_2511,l_selecao_v1_wav/L_100A.wav,0.16858,0.374595,0.23739,n,3.786205,L_100,foco,A_EC
+16,SAMUEL_2511,l_selecao_v1_wav/L_40A.wav,0.308525,0.412425,0.40243,s,4.43301,L_40,foco,A_EC
+18,SAMUEL_2511,l_selecao_v1_wav/L_59A.wav,0.58585,0.424905,0.982945,s,1.30035,L_59,foco,C
+21,SAMUEL_2511,l_selecao_v1_wav/L_105A.wav,0.54185,0.431195,0.58403,n,0.473245,L_105,foco,A_CE
+22,SAMUEL_2511,l_selecao_v1_wav/L_115A.wav,0.23027,0.35572,0.58215,n,0.72499,L_115,foco,S_CE
+25,SAMUEL_2511,l_selecao_v1_wav/L_35A.wav,0.496125,0.324855,0.294355,s,0.63929,L_35,foco,C
+27,SAMUEL_2511,l_selecao_v1_wav/L_8A.wav,0.07162,0.258835,0.37897,s,0.335745,L_8,foco,S_EC
+32,SAMUEL_2511,l_selecao_v1_wav/L_19A.wav,0.88414,1.31028,0.414065,n,0.484005,L_19,foco,S_CE
+35,SAMUEL_2511,l_selecao_v1_wav/L_87A.wav,0.67003,0.394785,0.65234,n,3.309935,L_87,foco,A_CE
+37,SAMUEL_2511,l_selecao_v1_wav/L_3A.wav,0.04258,0.069585,0.27431,n,0.30666,L_3,foco,A_CE
+42,SAMUEL_2511,l_selecao_v1_wav/L_142A.wav,0.234085,0.58096,0.668685,s,0.469735,L_142,foco,A_EC
+5,Thaiane_0112,l_selecao_v1_wav/L_113A.wav,1.188735,1.369545,0.91986,s,1.18721,L_113,foco,C
+8,Thaiane_0112,l_selecao_v1_wav/L_92A.wav,1.0492,1.077845,0.803545,s,1.407485,L_92,foco,S_EC
+10,Thaiane_0112,l_selecao_v1_wav/L_53A.wav,0.553845,0.60658,0.4701,s,1.403445,L_53,foco,C
+12,Thaiane_0112,l_selecao_v1_wav/L_75A.wav,939,1.23795,0.851935,n,1.703295,L_75,foco,A_CE
+13,Thaiane_0112,l_selecao_v1_wav/L_27A.wav,0.691035,0.649825,0.689835,n,2.497645,L_27,foco,A_CE
+14,Thaiane_0112,l_selecao_v1_wav/L_97A.wav,1.21939,0.903445,1.4162,n,1.01621,L_97,foco,S_CE
+16,Thaiane_0112,l_selecao_v1_wav/L_37A.wav,1.067715,0.65324,1.40445,n,0.65629,L_37,foco,S_CE
+18,Thaiane_0112,l_selecao_v1_wav/L_56A.wav,1.01897,0.63992,1.43729,s,2.593285,L_56,foco,S_EC
+21,Thaiane_0112,l_selecao_v1_wav/L_108A.wav,0.75386,0.78102,0.856025,n,0.70433,L_108,foco,E
+22,Thaiane_0112,l_selecao_v1_wav/L_118A.wav,0.95625,0.920855,1.456705,s,1.022325,L_118,foco,A_EC
+25,Thaiane_0112,l_selecao_v1_wav/L_32A.wav,1.203265,3.703265,2.299905,s,1.473725,L_32,foco,S_EC
+27,Thaiane_0112,l_selecao_v1_wav/L_11A.wav,0.91695,0.065035,0.882465,s,0.957215,L_11,foco,C
+32,Thaiane_0112,l_selecao_v1_wav/L_22A.wav,1.6152,1.202615,1.67576,s,2.87165,L_22,foco,A_EC
+35,Thaiane_0112,l_selecao_v1_wav/L_90A.wav,0.77056,0.437885,0.869475,n,1.05209,L_90,foco,E
+37,Thaiane_0112,l_selecao_v1_wav/L_6A.wav,1.67121,0.59053,0.919915,n,0.869365,L_6,foco,E
+42,Thaiane_0112,l_selecao_v1_wav/L_139A.wav,1.42247,0.1414,0.855795,n,0.952565,L_139,foco,S_CE
+5,Jana_2411,l_selecao_v1_wav/L_109A.wav,0.603695,1.01237,0.89794,s,24.38922,L_109,foco,S_CE
+8,Jana_2411,l_selecao_v1_wav/L_94A.wav,0.29566,0.276455,0.590095,s,1.07912,L_94,foco,A_EC
+10,Jana_2411,l_selecao_v1_wav/L_49A.wav,0.35181,0.728405,0.53062,n,0.418415,L_49,foco,S_CE
+12,Jana_2411,l_selecao_v1_wav/L_77A.wav,0.385475,0.67194,0.5553,s,1.404755,L_77,foco,C
+13,Jana_2411,l_selecao_v1_wav/L_29A.wav,0.2362,0.690845,0.70353,s,1.65135,L_29,foco,C
+14,Jana_2411,l_selecao_v1_wav/L_99A.wav,0.252785,0.557675,0.841665,s,1.490345,L_99,foco,A_CE
+16,Jana_2411,l_selecao_v1_wav/L_39A.wav,0.572145,0.59837,0.4358,n,1.530135,L_39,foco,A_CE
+18,Jana_2411,l_selecao_v1_wav/L_58A.wav,0.67445,0.68622,0.513565,n,0.82319,L_58,foco,A_EC
+21,Jana_2411,l_selecao_v1_wav/L_104A.wav,0.423045,0.70654,0.848155,s,0.57653,L_104,foco,S_EC
+22,Jana_2411,l_selecao_v1_wav/L_120A.wav,0.21212,0.62451,0.82019,n,5.92084,L_120,foco,E
+25,Jana_2411,l_selecao_v1_wav/L_34A.wav,0.537335,0.71078,0.84153,n,0.35931,L_34,foco,A_EC
+27,Jana_2411,l_selecao_v1_wav/L_7A.wav,0.312485,0.745695,0.85974,s,0.727405,L_7,foco,S_CE
+32,Jana_2411,l_selecao_v1_wav/L_24A.wav,0.883955,0.591365,0.646955,n,3.10256,L_24,foco,E
+35,Jana_2411,l_selecao_v1_wav/L_86A.wav,0.799275,0.573985,0.67363,s,0.99105,L_86,foco,S_EC
+37,Jana_2411,l_selecao_v1_wav/L_2A.wav,0.628865,0.401825,0.137275,s,0.619195,L_2,foco,S_EC
+42,Jana_2411,l_selecao_v1_wav/L_141A.wav,0.54464,0.691545,0.59143,n,0.520455,L_141,foco,A_CE
+5,Gabriel Andrew,l_selecao_v1_wav/L_114A.wav,3.788225,0.972585,1.278775,n,14.731865,L_114,foco,E
+8,Gabriel Andrew,l_selecao_v1_wav/L_93A.wav,1.0081,0.911165,0.622695,s,4.680275,L_93,foco,A_CE
+10,Gabriel Andrew,l_selecao_v1_wav/L_54A.wav,0.81016,3.29665,1.10885,s,2.70799,L_54,foco,E
+12,Gabriel Andrew,l_selecao_v1_wav/L_76A.wav,2.568795,1.79752,0.407395,s,1.745985,L_76,foco,A_EC
+13,Gabriel Andrew,l_selecao_v1_wav/L_28A.wav,0.80806,1.137965,0.690865,s,1.655585,L_28,foco,A_EC
+14,Gabriel Andrew,l_selecao_v1_wav/L_98A.wav,1.752855,0.610845,0.6413,s,1.66481,L_98,foco,S_EC
+16,Gabriel Andrew,l_selecao_v1_wav/L_38A.wav,0.84167,0.96075,0.76973,n,3.90944,L_38,foco,S_EC
+18,Gabriel Andrew,l_selecao_v1_wav/L_57A.wav,0.56477,1.1079,0.50461,n,3.52062,L_57,foco,A_CE
+21,Gabriel Andrew,l_selecao_v1_wav/L_103A.wav,0.95891,1.81507,0.49872,n,1.082005,L_103,foco,S_CE
+22,Gabriel Andrew,l_selecao_v1_wav/L_119A.wav,0.7144,0.85156,1.78096,n,6.37457,L_119,foco,C
+25,Gabriel Andrew,l_selecao_v1_wav/L_33A.wav,0.81305,1.121325,0.77357,n,0.59992,L_33,foco,A_CE
+27,Gabriel Andrew,l_selecao_v1_wav/L_12A.wav,0.950735,0.75758,0.68703,n,1.17297,L_12,foco,E
+32,Gabriel Andrew,l_selecao_v1_wav/L_23A.wav,0.8871,1.19566,0.912635,s,1.54195,L_23,foco,C
+35,Gabriel Andrew,l_selecao_v1_wav/L_85A.wav,0.629085,0.917175,0.549275,n,1.70646,L_85,foco,S_CE
+37,Gabriel Andrew,l_selecao_v1_wav/L_1A.wav,0.682305,1.051395,0.570895,n,0.72946,L_1,foco,S_CE
+42,Gabriel Andrew,l_selecao_v1_wav/L_140A.wav,0.630785,0.61673,0.98833,s,1.856535,L_140,foco,S_EC
+5,Isabela_0112,l_selecao_v1_wav/L_110A.wav,2.232275,0.99967,0.40019,n,1.24994,L_110,foco,S_EC
+8,Isabela_0112,l_selecao_v1_wav/L_95A.wav,0.63366,0.416775,0.217435,s,0.7838,L_95,foco,C
+10,Isabela_0112,l_selecao_v1_wav/L_50A.wav,1.253565,0.90593,1.46564,n,0.949995,L_50,foco,S_EC
+12,Isabela_0112,l_selecao_v1_wav/L_78A.wav,0.27567,1.33568,0.9164,n,0.567435,L_78,foco,E
+13,Isabela_0112,l_selecao_v1_wav/L_30A.wav,0.693055,0.32319,0.33342,n,6.06294,L_30,foco,E
+14,Isabela_0112,l_selecao_v1_wav/L_100A.wav,0.71885,0.89909,0.492065,n,1.53672,L_100,foco,A_EC
+16,Isabela_0112,l_selecao_v1_wav/L_40A.wav,1.266295,0.633925,0.849835,n,0.88387,L_40,foco,A_EC
+18,Isabela_0112,l_selecao_v1_wav/L_59A.wav,0.374705,0.51729,0.184115,s,2.64872,L_59,foco,C
+21,Isabela_0112,l_selecao_v1_wav/L_105A.wav,0.541365,0.84943,0.29212,n,0.749875,L_105,foco,A_CE
+22,Isabela_0112,l_selecao_v1_wav/L_115A.wav,0.5361,0.40036,0.551095,n,1.221155,L_115,foco,S_CE
+25,Isabela_0112,l_selecao_v1_wav/L_35A.wav,1.51594,1.01758,0.467165,s,1.35147,L_35,foco,C
+27,Isabela_0112,l_selecao_v1_wav/L_8A.wav,0.22482,0.44522,0.425555,s,3.70041,L_8,foco,S_EC
+32,Isabela_0112,l_selecao_v1_wav/L_19A.wav,0.735185,1.129115,0.361845,s,1.324795,L_19,foco,S_CE
+35,Isabela_0112,l_selecao_v1_wav/L_87A.wav,0.46758,0.41581,0.268315,n,0.667565,L_87,foco,A_CE
+37,Isabela_0112,l_selecao_v1_wav/L_3A.wav,0.46715,0.20721,0.417595,n,1.15375,L_3,foco,A_CE
+42,Isabela_0112,l_selecao_v1_wav/L_142A.wav,0.234825,0.55035,0.154935,n,1.38347,L_142,foco,A_EC
+5,Livia_2511,l_selecao_v1_wav/L_109A.wav,2.83829,6.696545,2.48546,n,2.36829,L_109,foco,S_CE
+8,Livia_2511,l_selecao_v1_wav/L_94A.wav,1.38396,3.91583,1.96903,s,2.2788,L_94,foco,A_EC
+10,Livia_2511,l_selecao_v1_wav/L_49A.wav,2.157105,2.08488,2.24014,n,1.569335,L_49,foco,S_CE
+12,Livia_2511,l_selecao_v1_wav/L_77A.wav,1.07082,1.073045,0.69455,s,0.888055,L_77,foco,C
+13,Livia_2511,l_selecao_v1_wav/L_29A.wav,0.504335,1.06984,1.003595,s,1.304975,L_29,foco,C
+14,Livia_2511,l_selecao_v1_wav/L_99A.wav,1.020045,1.661945,2.51635,n,1.586735,L_99,foco,A_CE
+16,Livia_2511,l_selecao_v1_wav/L_39A.wav,1.19041,1.27476,1.84341,n,1.37332,L_39,foco,A_CE
+18,Livia_2511,l_selecao_v1_wav/L_58A.wav,1.98832,627,2.43786,s,1.485805,L_58,foco,A_EC
+21,Livia_2511,l_selecao_v1_wav/L_104A.wav,1.018705,0.4408,1.009325,s,1.224665,L_104,foco,S_EC
+22,Livia_2511,l_selecao_v1_wav/L_120A.wav,1.3206,1.240525,2.107805,n,2.13455,L_120,foco,E
+25,Livia_2511,l_selecao_v1_wav/L_34A.wav,0.75824,1.802105,1.324415,s,1.93874,L_34,foco,A_EC
+27,Livia_2511,l_selecao_v1_wav/L_7A.wav,0.57268,1.75304,2.308175,n,0.819725,L_7,foco,S_CE
+32,Livia_2511,l_selecao_v1_wav/L_24A.wav,2.082775,0.50684,0.618175,n,1.44153,L_24,foco,E
+35,Livia_2511,l_selecao_v1_wav/L_86A.wav,1.98567,0.57706,1.323595,s,0.802835,L_86,foco,S_EC
+37,Livia_2511,l_selecao_v1_wav/L_2A.wav,2.118395,1.655555,0.992825,s,1.33237,L_2,foco,S_EC
+42,Livia_2511,l_selecao_v1_wav/L_141A.wav,2.52696,1.89426,4.056225,n,1.06047,L_141,foco,A_CE
+5,Thiago_1412,l_selecao_v1_wav/L_111A.wav,1772,3198,1165,n,25432,L_111,foco,A_CE
+8,Thiago_1412,l_selecao_v1_wav/L_96A.wav,849,732,549,n,19634,L_96,foco,E
+10,Thiago_1412,l_selecao_v1_wav/L_51A.wav,2616,931,2366,s,2134,L_51,foco,A_CE
+12,Thiago_1412,l_selecao_v1_wav/L_73A.wav,2098,1383,0.85,s,949,L_73,foco,S_CE
+13,Thiago_1412,l_selecao_v1_wav/L_25A.wav,2231,1125,1149,s,1536,L_25,foco,S_CE
+14,Thiago_1412,l_selecao_v1_wav/L_101A.wav,1333,0.83,617,s,911,L_101,foco,C
+16,Thiago_1412,l_selecao_v1_wav/L_41A.wav,915,634,581,n,4849,L_41,foco,C
+18,Thiago_1412,l_selecao_v1_wav/L_60A.wav,1109,1065,665,s,6.15,L_60,foco,E
+21,Thiago_1412,l_selecao_v1_wav/L_106A.wav,649,898,3.2,n,1346,L_106,foco,A_EC
+22,Thiago_1412,l_selecao_v1_wav/L_116A.wav,833,1082,1513,s,781,L_116,foco,S_EC
+25,Thiago_1412,l_selecao_v1_wav/L_36A.wav,668,634,548,s,2016,L_36,foco,E
+27,Thiago_1412,l_selecao_v1_wav/L_9A.wav,513,748,648,n,1.58,L_9,foco,A_CE
+32,Thiago_1412,l_selecao_v1_wav/L_20A.wav,1383,664,1313,s,728,L_20,foco,S_EC
+35,Thiago_1412,l_selecao_v1_wav/L_88A.wav,627,579,967,n,1748,L_88,foco,A_EC
+37,Thiago_1412,l_selecao_v1_wav/L_4A.wav,442,0.55,883,n,1599,L_4,foco,A_EC
+42,Thiago_1412,l_selecao_v1_wav/L_143A.wav,748,546,783,s,531,L_143,foco,C
+5,felip3_figueired0,l_selecao_v1_wav/L_112A.wav,0.893235,0.889825,0.817765,s,4.46487,L_112,foco,A_EC
+8,felip3_figueired0,l_selecao_v1_wav/L_91A.wav,0.619885,0.68757,0.620415,n,3.135065,L_91,foco,S_CE
+10,felip3_figueired0,l_selecao_v1_wav/L_52A.wav,0.778705,0.86283,0.77807,s,1.230385,L_52,foco,A_EC
+12,felip3_figueired0,l_selecao_v1_wav/L_74A.wav,0.8678,0.77288,0.729795,s,1.013955,L_74,foco,S_EC
+13,felip3_figueired0,l_selecao_v1_wav/L_26A.wav,0.711095,0.762755,0.79225,s,1.81112,L_26,foco,S_EC
+14,felip3_figueired0,l_selecao_v1_wav/L_102A.wav,568,0.58355,1.18719,n,1.047315,L_102,foco,E
+16,felip3_figueired0,l_selecao_v1_wav/L_42A.wav,0.745075,0.407455,0.730085,n,0.61319,L_42,foco,E
+18,felip3_figueired0,l_selecao_v1_wav/L_55A.wav,0.56739,0.40983,0.618065,s,2.73223,L_55,foco,S_CE
+21,felip3_figueired0,l_selecao_v1_wav/L_107A.wav,0.624785,0.38809,0.58416,s,1.35386,L_107,foco,C
+22,felip3_figueired0,l_selecao_v1_wav/L_117A.wav,0.623405,0.47574,0.761225,s,0.49232,L_117,foco,A_CE
+25,felip3_figueired0,l_selecao_v1_wav/L_31A.wav,0.517465,0.65558,0.59728,s,1.36625,L_31,foco,S_CE
+27,felip3_figueired0,l_selecao_v1_wav/L_10A.wav,0.945045,0.968565,1.129495,s,1.101655,L_10,foco,A_EC
+32,felip3_figueired0,l_selecao_v1_wav/L_21A.wav,0.691465,0.7676,0.682845,n,1.147615,L_21,foco,A_CE
+35,felip3_figueired0,l_selecao_v1_wav/L_89A.wav,0.756875,0.448025,0.59565,s,1.65736,L_89,foco,C
+37,felip3_figueired0,l_selecao_v1_wav/L_5A.wav,0.651345,0.410735,0.35782,s,0.94288,L_5,foco,C
+42,felip3_figueired0,l_selecao_v1_wav/L_144A.wav,0.775155,0.66929,0.876055,n,1.584705,L_144,foco,E
+5,Italo,l_selecao_v1_wav/L_113A.wav,1.573295,0.321475,1.2356,s,0.926195,L_113,foco,C
+8,Italo,l_selecao_v1_wav/L_92A.wav,1.510785,2.09009,0.438885,s,1.91171,L_92,foco,S_EC
+10,Italo,l_selecao_v1_wav/L_53A.wav,6.29264,1.513455,1.461715,s,10.788965,L_53,foco,C
+12,Italo,l_selecao_v1_wav/L_75A.wav,2.003025,1.44566,1.70452,n,1.11366,L_75,foco,A_CE
+13,Italo,l_selecao_v1_wav/L_27A.wav,1.80574,2.12125,1.1289,n,1.707525,L_27,foco,A_CE
+14,Italo,l_selecao_v1_wav/L_97A.wav,1.485875,2.240105,0.986735,n,0.67196,L_97,foco,S_CE
+16,Italo,l_selecao_v1_wav/L_37A.wav,2.104185,1.530645,1.23033,n,0.68746,L_37,foco,S_CE
+18,Italo,l_selecao_v1_wav/L_56A.wav,0.58652,0.66982,3.587095,n,2.54027,L_56,foco,S_EC
+21,Italo,l_selecao_v1_wav/L_108A.wav,2.093155,1.53518,1.9911,n,2.091125,L_108,foco,E
+22,Italo,l_selecao_v1_wav/L_118A.wav,1.302855,1.004425,2.906325,n,0.596395,L_118,foco,A_EC
+25,Italo,l_selecao_v1_wav/L_32A.wav,1.023945,0.342495,1.525645,n,0.988025,L_32,foco,S_EC
+27,Italo,l_selecao_v1_wav/L_11A.wav,0.777065,1.235075,1.020635,s,1.46052,L_11,foco,C
+32,Italo,l_selecao_v1_wav/L_22A.wav,2.13973,0.305305,1.341755,n,1.72526,L_22,foco,A_EC
+35,Italo,l_selecao_v1_wav/L_90A.wav,1.97845,0.72002,0.721745,n,0.90118,L_90,foco,E
+37,Italo,l_selecao_v1_wav/L_6A.wav,1.763795,0.473735,0.76064,n,0.826205,L_6,foco,E
+42,Italo,l_selecao_v1_wav/L_139A.wav,3.766335,0.3525,0.87261,n,4.306615,L_139,foco,S_CE
+5,Amanda_2511,l_selecao_v1_wav/L_109A.wav,0.54787,2.527965,0.88334,n,2.79693,L_109,foco,S_CE
+8,Amanda_2511,l_selecao_v1_wav/L_94A.wav,1.016555,7.68086,0.458515,n,0.781125,L_94,foco,A_EC
+10,Amanda_2511,l_selecao_v1_wav/L_49A.wav,1.297205,0.391965,1.125535,n,0.617265,L_49,foco,S_CE
+12,Amanda_2511,l_selecao_v1_wav/L_77A.wav,5.742295,0.439535,0.60056,s,1.96922,L_77,foco,C
+13,Amanda_2511,l_selecao_v1_wav/L_29A.wav,1.8426,1.577835,2.26757,s,1.520715,L_29,foco,C
+14,Amanda_2511,l_selecao_v1_wav/L_99A.wav,0.438805,0.583755,1.00922,n,0.660355,L_99,foco,A_CE
+16,Amanda_2511,l_selecao_v1_wav/L_39A.wav,0.743815,0.626735,0.39959,n,1.12403,L_39,foco,A_CE
+18,Amanda_2511,l_selecao_v1_wav/L_58A.wav,2.644425,0.967515,0.917895,n,3.30956,L_58,foco,A_EC
+21,Amanda_2511,l_selecao_v1_wav/L_104A.wav,0.902595,0.750455,1.366465,n,0.80666,L_104,foco,S_EC
+22,Amanda_2511,l_selecao_v1_wav/L_120A.wav,2.3836,3.27325,0.40973,s,0.884895,L_120,foco,E
+25,Amanda_2511,l_selecao_v1_wav/L_34A.wav,1.19549,1.134945,0.52928,n,3.134275,L_34,foco,A_EC
+27,Amanda_2511,l_selecao_v1_wav/L_7A.wav,0.715835,1.54327,0.593425,n,7.959325,L_7,foco,S_CE
+32,Amanda_2511,l_selecao_v1_wav/L_24A.wav,0.4079,0.62748,0.116815,s,0.96014,L_24,foco,E
+35,Amanda_2511,l_selecao_v1_wav/L_86A.wav,1.15856,0.433925,0.492915,n,1.05062,L_86,foco,S_EC
+37,Amanda_2511,l_selecao_v1_wav/L_2A.wav,0.49405,2.275215,0.28546,n,2.80068,L_2,foco,S_EC
+42,Amanda_2511,l_selecao_v1_wav/L_141A.wav,0.444875,0.204925,0.6089,n,0.201425,L_141,foco,A_CE
+5,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_114A.wav,1.03468,1.284405,1.55519,n,2.83082,L_114,foco,E
+8,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_93A.wav,2.218205,2.84538,2.33729,s,5.78167,L_93,foco,A_CE
+10,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_54A.wav,1.745615,0.902575,1.49689,s,7.911785,L_54,foco,E
+12,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_76A.wav,2.07064,2.33929,1.52811,s,4.351185,L_76,foco,A_EC
+13,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_28A.wav,2.46293,0.70096,1.117625,s,1.32845,L_28,foco,A_EC
+14,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_98A.wav,2.0196,1.36782,1.4219,s,2.29003,L_98,foco,S_EC
+16,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_38A.wav,2.919905,1.843185,1.093635,n,6.451925,L_38,foco,S_EC
+18,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_57A.wav,2.82295,1.09588,1.08,s,2.9192,L_57,foco,A_CE
+21,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_103A.wav,1.4403,1.827175,0.92843,n,2.20244,L_103,foco,S_CE
+22,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_119A.wav,1.658105,0.684495,1.35518,s,3.03477,L_119,foco,C
+25,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_33A.wav,1.43812,0.843965,1.340295,n,0.55667,L_33,foco,A_CE
+27,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_12A.wav,1.09012,3.118185,0.66236,n,0.69168,L_12,foco,E
+32,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_23A.wav,2.19285,0.568405,0.458055,n,1.172425,L_23,foco,C
+35,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_85A.wav,0.93736,1.201735,0.98407,n,1.117625,L_85,foco,S_CE
+37,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_1A.wav,0.89258,1.18744,0.925885,n,2.12333,L_1,foco,S_CE
+42,EU VOU NO CASAMENTO SIM,l_selecao_v1_wav/L_140A.wav,1.150055,0.934725,0.62257,s,1.406805,L_140,foco,S_EC
+5,Mateus Dani,l_selecao_v1_wav/L_110A.wav,0.429415,0.814255,0.849095,n,1.94458,L_110,foco,S_EC
+8,Mateus Dani,l_selecao_v1_wav/L_95A.wav,0.47788,0.34368,0.777465,s,0.61202,L_95,foco,C
+10,Mateus Dani,l_selecao_v1_wav/L_50A.wav,0.125245,0.65909,0.34194,s,0.675025,L_50,foco,S_EC
+12,Mateus Dani,l_selecao_v1_wav/L_78A.wav,0.1073,0.31216,0.674475,s,3.318175,L_78,foco,E
+13,Mateus Dani,l_selecao_v1_wav/L_30A.wav,0.02565,0.20813,0.23102,s,0.829365,L_30,foco,E
+14,Mateus Dani,l_selecao_v1_wav/L_100A.wav,0.656135,0.311275,0.32687,s,0.44334,L_100,foco,A_EC
+16,Mateus Dani,l_selecao_v1_wav/L_40A.wav,0.2654,0.39317,0.37681,s,0.4502,L_40,foco,A_EC
+18,Mateus Dani,l_selecao_v1_wav/L_59A.wav,0.022475,0.57909,0.098445,s,1.11549,L_59,foco,C
+21,Mateus Dani,l_selecao_v1_wav/L_105A.wav,0.310865,0.17819,0.64939,s,0.92939,L_105,foco,A_CE
+22,Mateus Dani,l_selecao_v1_wav/L_115A.wav,0.160775,1.07706,0.357995,n,1.13537,L_115,foco,S_CE
+25,Mateus Dani,l_selecao_v1_wav/L_35A.wav,0.041485,0.01216,0.026095,s,1.0303,L_35,foco,C
+27,Mateus Dani,l_selecao_v1_wav/L_8A.wav,0.108165,0.380125,0.24322,s,0.54801,L_8,foco,S_EC
+32,Mateus Dani,l_selecao_v1_wav/L_19A.wav,0.10891,0.309055,0.008505,n,0.995195,L_19,foco,S_CE
+35,Mateus Dani,l_selecao_v1_wav/L_87A.wav,0.076815,0.131345,0.31344,n,0.50898,L_87,foco,A_CE
+37,Mateus Dani,l_selecao_v1_wav/L_3A.wav,0.263095,0.057115,0.15918,s,0.65891,L_3,foco,A_CE
+42,Mateus Dani,l_selecao_v1_wav/L_142A.wav,0.226375,0.030925,0.090235,s,2.598415,L_142,foco,A_EC
+5,Joao_0112,l_selecao_v1_wav/L_113A.wav,0.57456,0.634455,1.2361,n,1.33647,L_113,foco,C
+8,Joao_0112,l_selecao_v1_wav/L_92A.wav,0.33359,0.701535,2.024295,s,1.653645,L_92,foco,S_EC
+10,Joao_0112,l_selecao_v1_wav/L_53A.wav,1.737515,0.41153,0.31804,s,0.386195,L_53,foco,C
+12,Joao_0112,l_selecao_v1_wav/L_75A.wav,0.701155,0.72058,1.21974,n,1.618065,L_75,foco,A_CE
+13,Joao_0112,l_selecao_v1_wav/L_27A.wav,0.3709,0.63534,0.824385,n,0.883775,L_27,foco,A_CE
+14,Joao_0112,l_selecao_v1_wav/L_97A.wav,0.27219,0.317745,0.80151,n,1.03584,L_97,foco,S_CE
+16,Joao_0112,l_selecao_v1_wav/L_37A.wav,0.669665,0.48971,0.456405,n,0.587125,L_37,foco,S_CE
+18,Joao_0112,l_selecao_v1_wav/L_56A.wav,0.462365,0.368235,0.756425,s,2.4894,L_56,foco,S_EC
+21,Joao_0112,l_selecao_v1_wav/L_108A.wav,2.005105,0.88651,1.056175,s,2.38101,L_108,foco,E
+22,Joao_0112,l_selecao_v1_wav/L_118A.wav,0.906445,0.55222,1.170395,s,4.25648,L_118,foco,A_EC
+25,Joao_0112,l_selecao_v1_wav/L_32A.wav,0.7886,0.39932,0.93912,s,2.25273,L_32,foco,S_EC
+27,Joao_0112,l_selecao_v1_wav/L_11A.wav,0.769995,0.518175,0.401935,s,1.803935,L_11,foco,C
+32,Joao_0112,l_selecao_v1_wav/L_22A.wav,0.61789,1.00625,0.371465,s,1.185095,L_22,foco,A_EC
+35,Joao_0112,l_selecao_v1_wav/L_90A.wav,0.770005,0.73724,0.46736,n,2.67337,L_90,foco,E
+37,Joao_0112,l_selecao_v1_wav/L_6A.wav,0.556555,0.46956,1.240935,n,1.654215,L_6,foco,E
+42,Joao_0112,l_selecao_v1_wav/L_139A.wav,1.23494,0.187485,0.605915,n,0.98795,L_139,foco,S_CE
+5,Lorena_0112,l_selecao_v1_wav/L_113A.wav,0.87993,0.71755,0.626205,s,1.412905,L_113,foco,C
+8,Lorena_0112,l_selecao_v1_wav/L_92A.wav,0.68151,1.6192,1.107565,s,1.751015,L_92,foco,S_EC
+10,Lorena_0112,l_selecao_v1_wav/L_53A.wav,1.12266,1.184485,0.524755,s,1.218935,L_53,foco,C
+12,Lorena_0112,l_selecao_v1_wav/L_75A.wav,0.68992,1.29516,1.572325,n,1.03372,L_75,foco,A_CE
+13,Lorena_0112,l_selecao_v1_wav/L_27A.wav,1.85704,1.036295,1.377965,n,1.300485,L_27,foco,A_CE
+14,Lorena_0112,l_selecao_v1_wav/L_97A.wav,1.131605,1.37954,0.53622,n,1.22364,L_97,foco,S_CE
+16,Lorena_0112,l_selecao_v1_wav/L_37A.wav,0.36143,1.388065,0.20781,n,1.367885,L_37,foco,S_CE
+18,Lorena_0112,l_selecao_v1_wav/L_56A.wav,0.572605,0.294385,1.11318,s,1.36311,L_56,foco,S_EC
+21,Lorena_0112,l_selecao_v1_wav/L_108A.wav,0.201865,0.25318,0.411675,s,1.467815,L_108,foco,E
+22,Lorena_0112,l_selecao_v1_wav/L_118A.wav,0.970855,0.474515,0.913625,s,1.61144,L_118,foco,A_EC
+25,Lorena_0112,l_selecao_v1_wav/L_32A.wav,0.702265,1.417705,0.540915,s,3.336925,L_32,foco,S_EC
+27,Lorena_0112,l_selecao_v1_wav/L_11A.wav,0.856185,1.035295,0.4914,s,1.70126,L_11,foco,C
+32,Lorena_0112,l_selecao_v1_wav/L_22A.wav,0.321955,1.50166,0.29662,s,1.74016,L_22,foco,A_EC
+35,Lorena_0112,l_selecao_v1_wav/L_90A.wav,0.486675,1.738115,0.48688,n,0.70802,L_90,foco,E
+37,Lorena_0112,l_selecao_v1_wav/L_6A.wav,1.226985,0.472775,0.238465,n,0.809495,L_6,foco,E
+42,Lorena_0112,l_selecao_v1_wav/L_139A.wav,0.426575,0.68903,0.984945,n,5.954365,L_139,foco,S_CE
+5,Michel_2511,l_selecao_v1_wav/L_110A.wav,1188,509,0.63,s,651,L_110,foco,S_EC
+8,Michel_2511,l_selecao_v1_wav/L_95A.wav,7443,15294,176,s,0.52,L_95,foco,C
+10,Michel_2511,l_selecao_v1_wav/L_50A.wav,803,685,764,s,479,L_50,foco,S_EC
+12,Michel_2511,l_selecao_v1_wav/L_78A.wav,671,2041,2.72,s,741,L_78,foco,E
+13,Michel_2511,l_selecao_v1_wav/L_30A.wav,1228,286,258,n,2655,L_30,foco,E
+14,Michel_2511,l_selecao_v1_wav/L_100A.wav,0.42,721,1355,s,1176,L_100,foco,A_EC
+16,Michel_2511,l_selecao_v1_wav/L_40A.wav,493,0.27,627,s,6024,L_40,foco,A_EC
+18,Michel_2511,l_selecao_v1_wav/L_59A.wav,1104,323,68,s,1286,L_59,foco,C
+21,Michel_2511,l_selecao_v1_wav/L_105A.wav,942,1275,755,n,724,L_105,foco,A_CE
+22,Michel_2511,l_selecao_v1_wav/L_115A.wav,1489,1341,404,s,3507,L_115,foco,S_CE
+25,Michel_2511,l_selecao_v1_wav/L_35A.wav,1238,3406,328,s,2.39,L_35,foco,C
+27,Michel_2511,l_selecao_v1_wav/L_8A.wav,1271,738,188,s,391,L_8,foco,S_EC
+32,Michel_2511,l_selecao_v1_wav/L_19A.wav,2494,1403,1178,s,471,L_19,foco,S_CE
+35,Michel_2511,l_selecao_v1_wav/L_87A.wav,738,1322,0.37,s,0.54,L_87,foco,A_CE
+37,Michel_2511,l_selecao_v1_wav/L_3A.wav,1079,454,345,s,7.86,L_3,foco,A_CE
+42,Michel_2511,l_selecao_v1_wav/L_142A.wav,1629,821,1169,s,464,L_142,foco,A_EC
+5,Ender_2511,l_selecao_v1_wav/L_114A.wav,0.721405,0.21807,0.192955,n,1.27594,L_114,foco,E
+8,Ender_2511,l_selecao_v1_wav/L_93A.wav,1.289795,0.50098,1.14021,n,1.452915,L_93,foco,A_CE
+10,Ender_2511,l_selecao_v1_wav/L_54A.wav,0.632675,0.720055,1.150505,n,1.456485,L_54,foco,E
+12,Ender_2511,l_selecao_v1_wav/L_76A.wav,0.2454,0.534195,1.09433,s,0.774055,L_76,foco,A_EC
+13,Ender_2511,l_selecao_v1_wav/L_28A.wav,0.00145,0.0232,0.84649,n,0.59754,L_28,foco,A_EC
+14,Ender_2511,l_selecao_v1_wav/L_98A.wav,0.40764,0.050845,0.037365,s,0.47443,L_98,foco,S_EC
+16,Ender_2511,l_selecao_v1_wav/L_38A.wav,0.71306,0.073855,0.087515,s,1.14942,L_38,foco,S_EC
+18,Ender_2511,l_selecao_v1_wav/L_57A.wav,0.537065,0.444235,0.16609,n,0.33357,L_57,foco,A_CE
+21,Ender_2511,l_selecao_v1_wav/L_103A.wav,0.728005,0.469725,1.001875,s,1.27962,L_103,foco,S_CE
+22,Ender_2511,l_selecao_v1_wav/L_119A.wav,0.937475,0.16924,0.519585,n,0.394325,L_119,foco,C
+25,Ender_2511,l_selecao_v1_wav/L_33A.wav,0.552955,0.11864,0.18554,n,1.169405,L_33,foco,A_CE
+27,Ender_2511,l_selecao_v1_wav/L_12A.wav,0.316975,0.38988,0.86177,s,0.29668,L_12,foco,E
+32,Ender_2511,l_selecao_v1_wav/L_23A.wav,0.61081,0.43853,0.7519,n,0.85388,L_23,foco,C
+35,Ender_2511,l_selecao_v1_wav/L_85A.wav,0.25223,0.58631,0.15258,n,0.83767,L_85,foco,S_CE
+37,Ender_2511,l_selecao_v1_wav/L_1A.wav,0.235845,0.58641,0.62035,s,1954,L_1,foco,S_CE
+42,Ender_2511,l_selecao_v1_wav/L_140A.wav,0.58667,0.35146,0.669695,n,0.436645,L_140,foco,S_EC
+5,Ale_0112,l_selecao_v1_wav/L_113A.wav,1.758555,0.95676,0.530105,s,4.1307,L_113,foco,C
+8,Ale_0112,l_selecao_v1_wav/L_92A.wav,1.926715,1.22685,1.004835,s,2.91259,L_92,foco,S_EC
+10,Ale_0112,l_selecao_v1_wav/L_53A.wav,1.097615,1.37608,1.636715,s,5.12825,L_53,foco,C
+12,Ale_0112,l_selecao_v1_wav/L_75A.wav,0.989915,1.034765,2.73427,s,7.90988,L_75,foco,A_CE
+13,Ale_0112,l_selecao_v1_wav/L_27A.wav,1.54947,1.94449,1.405575,n,0.68155,L_27,foco,A_CE
+14,Ale_0112,l_selecao_v1_wav/L_97A.wav,1.321865,3.15575,1.10211,n,0.747765,L_97,foco,S_CE
+16,Ale_0112,l_selecao_v1_wav/L_37A.wav,1.24851,0.926255,0.6616,n,0.42831,L_37,foco,S_CE
+18,Ale_0112,l_selecao_v1_wav/L_56A.wav,1.89649,0.97023,1.332285,s,1.53966,L_56,foco,S_EC
+21,Ale_0112,l_selecao_v1_wav/L_108A.wav,1.255795,0.852965,0.49641,n,0.666165,L_108,foco,E
+22,Ale_0112,l_selecao_v1_wav/L_118A.wav,1.286095,3.36393,0.387075,s,3.037845,L_118,foco,A_EC
+25,Ale_0112,l_selecao_v1_wav/L_32A.wav,0.817925,0.841285,0.40209,s,2.409865,L_32,foco,S_EC
+27,Ale_0112,l_selecao_v1_wav/L_11A.wav,0.719805,2.721275,0.39336,s,1.01834,L_11,foco,C
+32,Ale_0112,l_selecao_v1_wav/L_22A.wav,1.22162,0.99121,0.24863,s,0.71804,L_22,foco,A_EC
+35,Ale_0112,l_selecao_v1_wav/L_90A.wav,0.506315,0.521985,0.869095,n,12.068205,L_90,foco,E
+37,Ale_0112,l_selecao_v1_wav/L_6A.wav,0.88597,0.54656,0.544495,s,7.94018,L_6,foco,E
+42,Ale_0112,l_selecao_v1_wav/L_139A.wav,0.636545,0.54798,2.045305,n,0.346055,L_139,foco,S_CE
+5,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_114A.wav,0.320295,0.169385,2.12671,n,0.54321,L_114,foco,E
+8,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_93A.wav,0.139955,0.418205,0.876415,n,0.470995,L_93,foco,A_CE
+10,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_54A.wav,0.28958,0.37566,0.19223,n,6.315015,L_54,foco,E
+12,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_76A.wav,0.160395,1.07342,0.445605,n,0.38406,L_76,foco,A_EC
+13,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_28A.wav,0.886295,0.256525,0.58839,n,0.302605,L_28,foco,A_EC
+14,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_98A.wav,0.56769,0.12319,0.685325,n,2.27178,L_98,foco,S_EC
+16,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_38A.wav,17.25776,0.416025,0.43437,n,0.98978,L_38,foco,S_EC
+18,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_57A.wav,7.58037,0.74988,0.401855,n,0.984045,L_57,foco,A_CE
+21,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_103A.wav,0.12134,0.12125,2.037165,s,5.891585,L_103,foco,S_CE
+22,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_119A.wav,2.256525,1.568945,1.493155,s,5.99604,L_119,foco,C
+25,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_33A.wav,0.05199,0.30704,0.57643,n,0.49239,L_33,foco,A_CE
+27,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_12A.wav,0.22373,0.0917,0.57364,n,0.37096,L_12,foco,E
+32,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_23A.wav,0.101225,0.08909,0.420175,s,7.057315,L_23,foco,C
+35,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_85A.wav,0.32801,3.48714,0.356525,s,0.625135,L_85,foco,S_CE
+37,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_1A.wav,1.551475,0.88427,2.42159,n,3.292385,L_1,foco,S_CE
+42,Rafael Abel F G dos Santos,l_selecao_v1_wav/L_140A.wav,0.30334,0.289505,2.160755,s,1.32587,L_140,foco,S_EC
+5,Lia_1412,l_selecao_v1_wav/L_111A.wav,1.513705,1.349495,2.53238,n,0.06216,L_111,foco,A_CE
+8,Lia_1412,l_selecao_v1_wav/L_96A.wav,0.59543,0.233965,0.81038,n,0.733965,L_96,foco,E
+10,Lia_1412,l_selecao_v1_wav/L_51A.wav,0.884775,1.99322,1.858495,n,0.49596,L_51,foco,A_CE
+12,Lia_1412,l_selecao_v1_wav/L_73A.wav,0.21506,0.28192,1.31885,n,0.45884,L_73,foco,S_CE
+13,Lia_1412,l_selecao_v1_wav/L_25A.wav,1.19957,0.50152,0.558925,n,0.52654,L_25,foco,S_CE
+14,Lia_1412,l_selecao_v1_wav/L_101A.wav,0.05006,0.458015,0.468475,s,1.320275,L_101,foco,C
+16,Lia_1412,l_selecao_v1_wav/L_41A.wav,0.39748,0.454625,0.191265,n,12.03402,L_41,foco,C
+18,Lia_1412,l_selecao_v1_wav/L_60A.wav,1.121425,1.599665,0.68254,n,0.35034,L_60,foco,E
+21,Lia_1412,l_selecao_v1_wav/L_106A.wav,0.88197,0.295035,30.090915,n,0.767225,L_106,foco,A_EC
+22,Lia_1412,l_selecao_v1_wav/L_116A.wav,0.38075,0.557325,0.48237,s,2.13597,L_116,foco,S_EC
+25,Lia_1412,l_selecao_v1_wav/L_36A.wav,0.49537,0.88358,0.77108,n,0.63447,L_36,foco,E
+27,Lia_1412,l_selecao_v1_wav/L_9A.wav,0.27631,1.020385,0.88701,n,0.30209,L_9,foco,A_CE
+32,Lia_1412,l_selecao_v1_wav/L_20A.wav,0.806235,0.484065,0.406355,s,0.86808,L_20,foco,S_EC
+35,Lia_1412,l_selecao_v1_wav/L_88A.wav,0.46732,0.99078,0.73206,n,1.3605,L_88,foco,A_EC
+37,Lia_1412,l_selecao_v1_wav/L_4A.wav,0.303725,0.58637,0.158245,s,2.56946,L_4,foco,A_EC
+42,Lia_1412,l_selecao_v1_wav/L_143A.wav,0.388995,0.54979,0.45894,s,0.83215,L_143,foco,C
+5,EduardoSeiji_1412,l_selecao_v1_wav/L_111A.wav,0.594755,1.343205,0.744565,n,1.788115,L_111,foco,A_CE
+8,EduardoSeiji_1412,l_selecao_v1_wav/L_96A.wav,1.82094,3.646825,1.156965,s,5.836005,L_96,foco,E
+10,EduardoSeiji_1412,l_selecao_v1_wav/L_51A.wav,1.554605,1.084465,0.530205,n,2.70854,L_51,foco,A_CE
+12,EduardoSeiji_1412,l_selecao_v1_wav/L_73A.wav,0.809945,0.768085,2.01874,n,0.90096,L_73,foco,S_CE
+13,EduardoSeiji_1412,l_selecao_v1_wav/L_25A.wav,1.151455,1.122115,1.06765,n,0.784205,L_25,foco,S_CE
+14,EduardoSeiji_1412,l_selecao_v1_wav/L_101A.wav,1.22232,1.767655,0.588115,s,2.601725,L_101,foco,C
+16,EduardoSeiji_1412,l_selecao_v1_wav/L_41A.wav,1.325175,0.818195,0.662805,n,7.13658,L_41,foco,C
+18,EduardoSeiji_1412,l_selecao_v1_wav/L_60A.wav,0.885155,1.00118,0.29751,n,2.034575,L_60,foco,E
+21,EduardoSeiji_1412,l_selecao_v1_wav/L_106A.wav,0.418895,1.904175,0.873795,s,4.58653,L_106,foco,A_EC
+22,EduardoSeiji_1412,l_selecao_v1_wav/L_116A.wav,0.51984,0.423305,0.950515,s,0.78766,L_116,foco,S_EC
+25,EduardoSeiji_1412,l_selecao_v1_wav/L_36A.wav,0.496235,1.65226,0.68363,n,5.50749,L_36,foco,E
+27,EduardoSeiji_1412,l_selecao_v1_wav/L_9A.wav,0.588035,0.73783,3.043455,n,1.767905,L_9,foco,A_CE
+32,EduardoSeiji_1412,l_selecao_v1_wav/L_20A.wav,2.329255,0.54552,1.862025,s,6.66959,L_20,foco,S_EC
+35,EduardoSeiji_1412,l_selecao_v1_wav/L_88A.wav,0.735635,0.62499,0.860275,s,1.522535,L_88,foco,A_EC
+37,EduardoSeiji_1412,l_selecao_v1_wav/L_4A.wav,0.42553,2.502095,0.721155,s,1.13399,L_4,foco,A_EC
+42,EduardoSeiji_1412,l_selecao_v1_wav/L_143A.wav,1.427865,1.362205,1.434075,s,3.685765,L_143,foco,C
+5,Marco Antonio Rocha,l_selecao_v1_wav/L_114A.wav,0.25506,0.95983,0.18058,s,1.58323,L_114,foco,E
+8,Marco Antonio Rocha,l_selecao_v1_wav/L_93A.wav,0.441055,0.57798,0.72047,s,0.372825,L_93,foco,A_CE
+10,Marco Antonio Rocha,l_selecao_v1_wav/L_54A.wav,0.938575,0.478875,0.1849,s,0.40383,L_54,foco,E
+12,Marco Antonio Rocha,l_selecao_v1_wav/L_76A.wav,0.384935,0.519245,0.91946,n,0.171175,L_76,foco,A_EC
+13,Marco Antonio Rocha,l_selecao_v1_wav/L_28A.wav,0.291405,0.15174,1.026855,n,0.46893,L_28,foco,A_EC
+14,Marco Antonio Rocha,l_selecao_v1_wav/L_98A.wav,0.30118,0.651275,0.57191,s,1.455575,L_98,foco,S_EC
+16,Marco Antonio Rocha,l_selecao_v1_wav/L_38A.wav,0.213015,0.409355,0.501665,s,1.36778,L_38,foco,S_EC
+18,Marco Antonio Rocha,l_selecao_v1_wav/L_57A.wav,0.06917,0.494235,0.93478,n,0.485125,L_57,foco,A_CE
+21,Marco Antonio Rocha,l_selecao_v1_wav/L_103A.wav,0.5687,0.22099,0.36796,s,1.591125,L_103,foco,S_CE
+22,Marco Antonio Rocha,l_selecao_v1_wav/L_119A.wav,1.72167,0.227565,0.209875,s,2.461145,L_119,foco,C
+25,Marco Antonio Rocha,l_selecao_v1_wav/L_33A.wav,0.23631,0.07662,0.080495,n,0.35017,L_33,foco,A_CE
+27,Marco Antonio Rocha,l_selecao_v1_wav/L_12A.wav,0.709545,0.75196,0.14122,s,0.45172,L_12,foco,E
+32,Marco Antonio Rocha,l_selecao_v1_wav/L_23A.wav,0.07109,0.577145,0.202085,s,1.08501,L_23,foco,C
+35,Marco Antonio Rocha,l_selecao_v1_wav/L_85A.wav,1.05519,0.17085,0.09436,s,0.90321,L_85,foco,S_CE
+37,Marco Antonio Rocha,l_selecao_v1_wav/L_1A.wav,0.660495,0.292285,0.26179,s,1.091445,L_1,foco,S_CE
+42,Marco Antonio Rocha,l_selecao_v1_wav/L_140A.wav,0.29553,92,0.276865,s,0.338365,L_140,foco,S_EC
+5,Eduarda_1412,l_selecao_v1_wav/L_111A.wav,0.6708,1.147015,0.86487,n,10.34966,L_111,foco,A_CE
+8,Eduarda_1412,l_selecao_v1_wav/L_96A.wav,0.482275,0.442505,0.66039,s,9.83283,L_96,foco,E
+10,Eduarda_1412,l_selecao_v1_wav/L_51A.wav,0.745345,1.46303,0.87489,s,2.51248,L_51,foco,A_CE
+12,Eduarda_1412,l_selecao_v1_wav/L_73A.wav,1.985155,1.865155,1.29613,n,6.45078,L_73,foco,S_CE
+13,Eduarda_1412,l_selecao_v1_wav/L_25A.wav,1.068265,0.95123,3.72118,s,0.81855,L_25,foco,S_CE
+14,Eduarda_1412,l_selecao_v1_wav/L_101A.wav,2.226915,0.451225,0.685205,s,6.18354,L_101,foco,C
+16,Eduarda_1412,l_selecao_v1_wav/L_41A.wav,0.740665,0.606785,0.4604,n,12.77327,L_41,foco,C
+18,Eduarda_1412,l_selecao_v1_wav/L_60A.wav,0.54868,1.9356,1.510815,n,1.633435,L_60,foco,E
+21,Eduarda_1412,l_selecao_v1_wav/L_106A.wav,0.42251,1.142565,1.286165,n,3.8861,L_106,foco,A_EC
+22,Eduarda_1412,l_selecao_v1_wav/L_116A.wav,0.68189,1.25958,1.996105,s,0.75561,L_116,foco,S_EC
+25,Eduarda_1412,l_selecao_v1_wav/L_36A.wav,0.62877,0.63573,1.35393,s,6.25481,L_36,foco,E
+27,Eduarda_1412,l_selecao_v1_wav/L_9A.wav,0.411655,1.35181,0.723135,n,1.9506,L_9,foco,A_CE
+32,Eduarda_1412,l_selecao_v1_wav/L_20A.wav,0.62647,0.867935,0.536695,s,1.335175,L_20,foco,S_EC
+35,Eduarda_1412,l_selecao_v1_wav/L_88A.wav,0.341475,1.11005,631,n,1.095535,L_88,foco,A_EC
+37,Eduarda_1412,l_selecao_v1_wav/L_4A.wav,0.624245,0.754515,0.95566,s,1.32912,L_4,foco,A_EC
+42,Eduarda_1412,l_selecao_v1_wav/L_143A.wav,0.711685,0.982215,1.051735,s,3.9506,L_143,foco,C
+5,geovana_2511,l_selecao_v1_wav/L_109A.wav,2.240395,8.986955,2.291615,n,3.14794,L_109,foco,S_CE
+8,geovana_2511,l_selecao_v1_wav/L_94A.wav,1.06569,1.084565,1.28769,n,3.69821,L_94,foco,A_EC
+10,geovana_2511,l_selecao_v1_wav/L_49A.wav,1.208555,1.33809,1.143425,s,1.31493,L_49,foco,S_CE
+12,geovana_2511,l_selecao_v1_wav/L_77A.wav,1.020015,1.71257,0.60386,s,1.34027,L_77,foco,C
+13,geovana_2511,l_selecao_v1_wav/L_29A.wav,2.147125,1.20013,0.87371,n,2.2072,L_29,foco,C
+14,geovana_2511,l_selecao_v1_wav/L_99A.wav,1.12483,3.225035,2.078565,n,2.671385,L_99,foco,A_CE
+16,geovana_2511,l_selecao_v1_wav/L_39A.wav,0.918905,1.713735,0.74724,n,1.441205,L_39,foco,A_CE
+18,geovana_2511,l_selecao_v1_wav/L_58A.wav,0.566125,3.20064,1.118075,n,4.00126,L_58,foco,A_EC
+21,geovana_2511,l_selecao_v1_wav/L_104A.wav,5.30049,2.38799,1.38491,s,1.543335,L_104,foco,S_EC
+22,geovana_2511,l_selecao_v1_wav/L_120A.wav,0.74085,0.460915,0.88169,s,1.17195,L_120,foco,E
+25,geovana_2511,l_selecao_v1_wav/L_34A.wav,0.77797,1.938085,0.844125,s,1.31319,L_34,foco,A_EC
+27,geovana_2511,l_selecao_v1_wav/L_7A.wav,19.431715,0.88147,1.293595,s,0.93378,L_7,foco,S_CE
+32,geovana_2511,l_selecao_v1_wav/L_24A.wav,0.8697,0.878125,0.73905,n,0.926225,L_24,foco,E
+35,geovana_2511,l_selecao_v1_wav/L_86A.wav,0.735735,1.05614,0.596365,s,1.850475,L_86,foco,S_EC
+37,geovana_2511,l_selecao_v1_wav/L_2A.wav,1.20069,0.960595,0.602535,s,2.22651,L_2,foco,S_EC
+42,geovana_2511,l_selecao_v1_wav/L_141A.wav,0.505785,2.020415,1.061925,n,0.96898,L_141,foco,A_CE
+5,,l_selecao_v1_wav/L_112A.wav,0.534505,0.984895,0.58632,n,0.918135,L_112,foco,A_EC
+8,,l_selecao_v1_wav/L_91A.wav,0.862575,1.31375,0.57534,n,0.788065,L_91,foco,S_CE
+10,,l_selecao_v1_wav/L_52A.wav,1.009405,0.56916,0.60303,n,4.585355,L_52,foco,A_EC
+12,,l_selecao_v1_wav/L_74A.wav,0.351335,0.6779,0.85923,n,0.569685,L_74,foco,S_EC
+13,,l_selecao_v1_wav/L_26A.wav,1.96642,0.96817,0.303365,n,2.006265,L_26,foco,S_EC
+14,,l_selecao_v1_wav/L_102A.wav,0.669385,1.48591,0.509035,s,1.758595,L_102,foco,E
+16,,l_selecao_v1_wav/L_42A.wav,1.320765,685,0.208685,n,1.4541,L_42,foco,E
+18,,l_selecao_v1_wav/L_55A.wav,0.52547,1.2717,0.90014,n,1.92358,L_55,foco,S_CE
+21,,l_selecao_v1_wav/L_107A.wav,0.97306,0.30122,0.28663,s,1.69357,L_107,foco,C
+22,,l_selecao_v1_wav/L_117A.wav,0.20722,1.021915,1.207015,n,0.535785,L_117,foco,A_CE
+25,,l_selecao_v1_wav/L_31A.wav,1.368285,1.127445,4.01917,n,3.594215,L_31,foco,S_CE
+27,,l_selecao_v1_wav/L_10A.wav,1.389025,2.72322,3.45729,n,8.745185,L_10,foco,A_EC
+32,,l_selecao_v1_wav/L_21A.wav,0.717545,0.668495,0.018115,n,4.704045,L_21,foco,A_CE
+35,,l_selecao_v1_wav/L_89A.wav,0.401635,0.2685,0.035355,s,3.286955,L_89,foco,C
+37,,l_selecao_v1_wav/L_5A.wav,0.551765,0.25235,0.35163,s,5.903775,L_5,foco,C
+42,,l_selecao_v1_wav/L_144A.wav,0.084755,0.284895,0.185195,n,1.80218,L_144,foco,E
+5,Kaio_0812,l_selecao_v1_wav/L_111A.wav,0.434615,1.29492,0.64061,n,0.588075,L_111,foco,A_CE
+8,Kaio_0812,l_selecao_v1_wav/L_96A.wav,0.29331,0.418315,0.33351,n,1.18374,L_96,foco,E
+10,Kaio_0812,l_selecao_v1_wav/L_51A.wav,0.33372,0.3004,0.17614,s,2.52435,L_51,foco,A_CE
+12,Kaio_0812,l_selecao_v1_wav/L_73A.wav,0.15027,0.64094,0.484905,s,0.29547,L_73,foco,S_CE
+13,Kaio_0812,l_selecao_v1_wav/L_25A.wav,0.53367,0.368825,0.40074,s,2.58376,L_25,foco,S_CE
+14,Kaio_0812,l_selecao_v1_wav/L_101A.wav,0.50268,1.03812,0.450295,s,0.343915,L_101,foco,C
+16,Kaio_0812,l_selecao_v1_wav/L_41A.wav,0.250375,0.383715,0.333645,s,2.99246,L_41,foco,C
+18,Kaio_0812,l_selecao_v1_wav/L_60A.wav,0.23669,0.32934,0.49162,n,1.40759,L_60,foco,E
+21,Kaio_0812,l_selecao_v1_wav/L_106A.wav,0.45025,0.23459,0.58368,s,6.97557,L_106,foco,A_EC
+22,Kaio_0812,l_selecao_v1_wav/L_116A.wav,0.383685,0.12923,0.850525,n,2.34476,L_116,foco,S_EC
+25,Kaio_0812,l_selecao_v1_wav/L_36A.wav,0.19424,0.54486,0.483385,n,0.3897,L_36,foco,E
+27,Kaio_0812,l_selecao_v1_wav/L_9A.wav,0.30689,0.43965,1.085605,n,0.470855,L_9,foco,A_CE
+32,Kaio_0812,l_selecao_v1_wav/L_20A.wav,0.37681,0.13351,0.42707,s,0.86897,L_20,foco,S_EC
+35,Kaio_0812,l_selecao_v1_wav/L_88A.wav,0.40252,0.316965,0.62103,n,0.61703,L_88,foco,A_EC
+37,Kaio_0812,l_selecao_v1_wav/L_4A.wav,0.388325,0.72224,0.35972,s,0.576565,L_4,foco,A_EC
+42,Kaio_0812,l_selecao_v1_wav/L_143A.wav,0.2842,0.37373,0.60057,s,0.98373,L_143,foco,C
+5,ga_0212,l_selecao_v1_wav/L_112A.wav,0.88665,1.12508,1.444095,s,3.05863,L_112,foco,A_EC
+8,ga_0212,l_selecao_v1_wav/L_91A.wav,0.97926,0.846285,2.39932,s,2.559645,L_91,foco,S_CE
+10,ga_0212,l_selecao_v1_wav/L_52A.wav,0.74168,0.925615,1.893475,s,1.21255,L_52,foco,A_EC
+12,ga_0212,l_selecao_v1_wav/L_74A.wav,0.48422,0.56784,0.751035,s,1.00295,L_74,foco,S_EC
+13,ga_0212,l_selecao_v1_wav/L_26A.wav,0.46771,1.71894,1.46965,s,1.322575,L_26,foco,S_EC
+14,ga_0212,l_selecao_v1_wav/L_102A.wav,0.52103,0.785165,1.098675,n,1.59107,L_102,foco,E
+16,ga_0212,l_selecao_v1_wav/L_42A.wav,0.90438,0.93692,0.939185,n,1.034595,L_42,foco,E
+18,ga_0212,l_selecao_v1_wav/L_55A.wav,0.58763,1.384655,1.411225,n,0.79314,L_55,foco,S_CE
+21,ga_0212,l_selecao_v1_wav/L_107A.wav,0.917645,0.484405,0.655405,s,1.333795,L_107,foco,C
+22,ga_0212,l_selecao_v1_wav/L_117A.wav,1.064415,1.004625,0.7398,n,2.43562,L_117,foco,A_CE
+25,ga_0212,l_selecao_v1_wav/L_31A.wav,1.11828,0.45193,4.155165,n,0.98892,L_31,foco,S_CE
+27,ga_0212,l_selecao_v1_wav/L_10A.wav,0.6859,0.78356,0.86333,s,1.12365,L_10,foco,A_EC
+32,ga_0212,l_selecao_v1_wav/L_21A.wav,0.84118,1.21953,0.40602,s,1.036725,L_21,foco,A_CE
+35,ga_0212,l_selecao_v1_wav/L_89A.wav,0.59467,0.4882,1.329805,s,2.366405,L_89,foco,C
+37,ga_0212,l_selecao_v1_wav/L_5A.wav,0.466465,0.573035,0.690555,s,0.796795,L_5,foco,C
+42,ga_0212,l_selecao_v1_wav/L_144A.wav,0.37365,0.775235,1.09407,n,1.368385,L_144,foco,E
+5,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_110A.wav,1.08567,3.39291,0.442035,s,0.75923,L_110,foco,S_EC
+8,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_95A.wav,1.142075,0.358545,0.39188,s,1.075495,L_95,foco,C
+10,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_50A.wav,0.60046,0.60227,0.783945,n,0.99536,L_50,foco,S_EC
+12,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_78A.wav,0.566105,0.4177,1.760975,s,0.72975,L_78,foco,E
+13,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_30A.wav,0.53506,0.226585,0.766975,n,0.945995,L_30,foco,E
+14,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_100A.wav,0.363805,2.13744,0.43755,n,6.377505,L_100,foco,A_EC
+16,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_40A.wav,0.4458,0.612325,0.404745,n,0.460465,L_40,foco,A_EC
+18,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_59A.wav,0.21921,0.44438,0.390375,n,1.96773,L_59,foco,C
+21,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_105A.wav,0.25979,0.575395,0.58602,s,0.612665,L_105,foco,A_CE
+22,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_115A.wav,0.333475,0.50077,0.30904,s,0.57289,L_115,foco,S_CE
+25,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_35A.wav,0.15343,0.062565,0.32632,s,1.330635,L_35,foco,C
+27,Leonardo Tavares de Sousa,l_selecao_v1_wav/L_8A.wav,1.0586,0.78347,0.27759,s,0.501085,L_8,foco,S_EC
+5,LALA_12032020,l_selecao_v1_wav/L_113A.wav,1038,841,788,s,3051,L_113,foco,C
+8,LALA_12032020,l_selecao_v1_wav/L_92A.wav,775,1.02,688,s,2769,L_92,foco,S_EC
+10,LALA_12032020,l_selecao_v1_wav/L_53A.wav,1306,1273,907,s,3991,L_53,foco,C
+12,LALA_12032020,l_selecao_v1_wav/L_75A.wav,1109,1204,919,n,707,L_75,foco,A_CE
+13,LALA_12032020,l_selecao_v1_wav/L_27A.wav,754,1003,439,s,3468,L_27,foco,A_CE
+14,LALA_12032020,l_selecao_v1_wav/L_97A.wav,986,1195,969,n,736,L_97,foco,S_CE
+16,LALA_12032020,l_selecao_v1_wav/L_37A.wav,1004,1286,0.84,n,1174,L_37,foco,S_CE
+18,LALA_12032020,l_selecao_v1_wav/L_56A.wav,686,0.96,635,s,1968,L_56,foco,S_EC
+21,LALA_12032020,l_selecao_v1_wav/L_108A.wav,1485,819,619,n,836,L_108,foco,E
+22,LALA_12032020,l_selecao_v1_wav/L_118A.wav,1109,686,1058,s,4659,L_118,foco,A_EC
+25,LALA_12032020,l_selecao_v1_wav/L_32A.wav,793,585,709,s,1352,L_32,foco,S_EC
+27,LALA_12032020,l_selecao_v1_wav/L_11A.wav,707,551,547,s,1293,L_11,foco,C
+32,LALA_12032020,l_selecao_v1_wav/L_22A.wav,1336,585,691,n,1386,L_22,foco,A_EC
+35,LALA_12032020,l_selecao_v1_wav/L_90A.wav,721,1003,718,n,751,L_90,foco,E
+37,LALA_12032020,l_selecao_v1_wav/L_6A.wav,585,869,0.52,n,776,L_6,foco,E
+42,LALA_12032020,l_selecao_v1_wav/L_139A.wav,588,803,1291,n,769,L_139,foco,S_CE
+5,Matheus_2011,l_selecao_v1_wav/L_114A.wav,2.60322,3.24576,1.98108,n,1.03584,L_114,foco,E
+8,Matheus_2011,l_selecao_v1_wav/L_93A.wav,2.719635,2.91717,3.14341,s,3.08257,L_93,foco,A_CE
+10,Matheus_2011,l_selecao_v1_wav/L_54A.wav,1.85,2.018805,1.67717,n,1.60181,L_54,foco,E
+12,Matheus_2011,l_selecao_v1_wav/L_76A.wav,1.573015,1.18968,1.508255,s,0.78682,L_76,foco,A_EC
+13,Matheus_2011,l_selecao_v1_wav/L_28A.wav,2.167315,2.237025,1.520745,s,1.422505,L_28,foco,A_EC
+14,Matheus_2011,l_selecao_v1_wav/L_98A.wav,2.24569,1.789485,0.992475,s,0.747745,L_98,foco,S_EC
+16,Matheus_2011,l_selecao_v1_wav/L_38A.wav,2.193105,1.297045,2.57245,s,5.0933,L_38,foco,S_EC
+18,Matheus_2011,l_selecao_v1_wav/L_57A.wav,1.333455,1.160445,1.2213,n,0.354985,L_57,foco,A_CE
+21,Matheus_2011,l_selecao_v1_wav/L_103A.wav,1.508945,1.635115,0.75091,s,0.71832,L_103,foco,S_CE
+22,Matheus_2011,l_selecao_v1_wav/L_119A.wav,1.028355,1.199935,0.592925,s,1.457945,L_119,foco,C
+25,Matheus_2011,l_selecao_v1_wav/L_33A.wav,2.21875,0.472395,1.089375,n,6.00327,L_33,foco,A_CE
+27,Matheus_2011,l_selecao_v1_wav/L_12A.wav,0.817465,0.921165,0.467065,n,0.88937,L_12,foco,E
+32,Matheus_2011,l_selecao_v1_wav/L_23A.wav,3.452715,1.10294,2.50939,s,1.24377,L_23,foco,C
+35,Matheus_2011,l_selecao_v1_wav/L_85A.wav,0.340335,2.11392,1.715965,n,1.942155,L_85,foco,S_CE
+37,Matheus_2011,l_selecao_v1_wav/L_1A.wav,0.802915,0.534555,1.44865,s,1.28813,L_1,foco,S_CE
+42,Matheus_2011,l_selecao_v1_wav/L_140A.wav,2.238655,1.058085,1.95643,s,1.569635,L_140,foco,S_EC
+5,Isabela_2511,l_selecao_v1_wav/L_110A.wav,1.08423,1.37587,1.649265,n,1.43936,L_110,foco,S_EC
+8,Isabela_2511,l_selecao_v1_wav/L_95A.wav,0.55239,0.92212,0.488245,s,2.666195,L_95,foco,C
+10,Isabela_2511,l_selecao_v1_wav/L_50A.wav,4.88867,1.670305,1.85634,s,4.659565,L_50,foco,S_EC
+12,Isabela_2511,l_selecao_v1_wav/L_78A.wav,0.6576,0.510025,1.020605,n,1.47669,L_78,foco,E
+13,Isabela_2511,l_selecao_v1_wav/L_30A.wav,1.711645,0.89279,0.61761,n,2.21797,L_30,foco,E
+14,Isabela_2511,l_selecao_v1_wav/L_100A.wav,0.82961,1.689165,1.82544,n,4.082005,L_100,foco,A_EC
+16,Isabela_2511,l_selecao_v1_wav/L_40A.wav,0.519165,1.35022,1.17097,n,3.26587,L_40,foco,A_EC
+18,Isabela_2511,l_selecao_v1_wav/L_59A.wav,1.39979,0.92247,1.407515,s,6.01544,L_59,foco,C
+21,Isabela_2511,l_selecao_v1_wav/L_105A.wav,1.15013,1.162685,0.8611,n,1.18759,L_105,foco,A_CE
+22,Isabela_2511,l_selecao_v1_wav/L_115A.wav,2.00598,0.743095,1.95979,n,0.816825,L_115,foco,S_CE
+25,Isabela_2511,l_selecao_v1_wav/L_35A.wav,0.42833,0.386085,0.6885,s,4.193505,L_35,foco,C
+27,Isabela_2511,l_selecao_v1_wav/L_8A.wav,2.14158,0.803195,0.700605,s,0.80694,L_8,foco,S_EC
+32,Isabela_2511,l_selecao_v1_wav/L_19A.wav,0.708495,1.27853,2.00056,s,2.29303,L_19,foco,S_CE
+35,Isabela_2511,l_selecao_v1_wav/L_87A.wav,1.399395,1.44443,1.255935,n,3.75802,L_87,foco,A_CE
+37,Isabela_2511,l_selecao_v1_wav/L_3A.wav,0.444745,0.48368,1.400655,n,1.86616,L_3,foco,A_CE
+42,Isabela_2511,l_selecao_v1_wav/L_142A.wav,1.23305,1.23346,1.6748,s,0.903685,L_142,foco,A_EC
+5,Yuji_2911,l_selecao_v1_wav/L_109A.wav,1.477705,2.513215,1.803685,s,3.58631,L_109,foco,S_CE
+8,Yuji_2911,l_selecao_v1_wav/L_94A.wav,1.298845,1.12918,0.63293,n,1.739155,L_94,foco,A_EC
+10,Yuji_2911,l_selecao_v1_wav/L_49A.wav,1.70668,1.090755,0.372825,s,2.39197,L_49,foco,S_CE
+12,Yuji_2911,l_selecao_v1_wav/L_77A.wav,0.90661,0.65948,0.46887,s,0.485635,L_77,foco,C
+13,Yuji_2911,l_selecao_v1_wav/L_29A.wav,0.73232,0.58393,0.4772,s,2.46823,L_29,foco,C
+14,Yuji_2911,l_selecao_v1_wav/L_99A.wav,0.66321,0.32272,0.767965,n,1.20783,L_99,foco,A_CE
+16,Yuji_2911,l_selecao_v1_wav/L_39A.wav,0.802375,0.3351,0.491395,s,1.735395,L_39,foco,A_CE
+18,Yuji_2911,l_selecao_v1_wav/L_58A.wav,0.661725,0.391885,0.51224,n,0.937855,L_58,foco,A_EC
+21,Yuji_2911,l_selecao_v1_wav/L_104A.wav,0.50804,0.44115,0.994015,s,1.853205,L_104,foco,S_EC
+22,Yuji_2911,l_selecao_v1_wav/L_120A.wav,0.73816,0.530195,1.45446,n,0.33764,L_120,foco,E
+25,Yuji_2911,l_selecao_v1_wav/L_34A.wav,1.338025,0.43572,0.65712,n,0.443245,L_34,foco,A_EC
+27,Yuji_2911,l_selecao_v1_wav/L_7A.wav,0.67264,0.190975,0.518465,s,2.21174,L_7,foco,S_CE
+32,Yuji_2911,l_selecao_v1_wav/L_24A.wav,0.87112,0.46276,0.347855,n,7.658315,L_24,foco,E
+35,Yuji_2911,l_selecao_v1_wav/L_86A.wav,0.835145,0.118835,0.05149,s,2.846505,L_86,foco,S_EC
+37,Yuji_2911,l_selecao_v1_wav/L_2A.wav,0.45682,0.5695,0.542655,s,0.32432,L_2,foco,S_EC
+42,Yuji_2911,l_selecao_v1_wav/L_141A.wav,0.21822,0.255045,0.242015,n,0.71942,L_141,foco,A_CE
+5,Partici,l_selecao_v1_wav/L_109A.wav,0.308755,3.57453,1.341955,n,4.060925,L_109,foco,S_CE
+8,Partici,l_selecao_v1_wav/L_94A.wav,0.742155,0.6075,0.82519,n,1.642315,L_94,foco,A_EC
+10,Partici,l_selecao_v1_wav/L_49A.wav,1.32622,0.64236,0.64209,s,4.697355,L_49,foco,S_CE
+12,Partici,l_selecao_v1_wav/L_77A.wav,0.66061,0.541425,0.994545,s,0.710155,L_77,foco,C
+13,Partici,l_selecao_v1_wav/L_29A.wav,1.46457,0.25889,0.39165,s,0.75772,L_29,foco,C
+14,Partici,l_selecao_v1_wav/L_99A.wav,0.396395,0.61229,0.824925,n,2.90793,L_99,foco,A_CE
+16,Partici,l_selecao_v1_wav/L_39A.wav,0.724605,0.87463,0.925625,n,0.792905,L_39,foco,A_CE
+18,Partici,l_selecao_v1_wav/L_58A.wav,0.30866,0.442565,0.90819,n,0.974625,L_58,foco,A_EC
+21,Partici,l_selecao_v1_wav/L_104A.wav,2.1457,1.024845,0.725025,s,1.06783,L_104,foco,S_EC
+22,Partici,l_selecao_v1_wav/L_120A.wav,1.22515,0.514655,0.84369,n,1.262825,L_120,foco,E
+25,Partici,l_selecao_v1_wav/L_34A.wav,1.54136,0.8078,0.477805,s,1.40753,L_34,foco,A_EC
+27,Partici,l_selecao_v1_wav/L_7A.wav,1.0592,0.645165,0.625595,n,1.107065,L_7,foco,S_CE
+32,Partici,l_selecao_v1_wav/L_24A.wav,0.85873,0.9578,1.11495,n,0.848505,L_24,foco,E
+35,Partici,l_selecao_v1_wav/L_86A.wav,0.72692,0.891705,1.25724,n,1.35904,L_86,foco,S_EC
+37,Partici,l_selecao_v1_wav/L_2A.wav,1.341095,0.825165,1.22406,s,1.641505,L_2,foco,S_EC
+42,Partici,l_selecao_v1_wav/L_141A.wav,0.67406,0.591615,1.25815,s,1.17629,L_141,foco,A_CE
+5,Renato_0112,l_selecao_v1_wav/L_109A.wav,1.169295,1.5011,0.906545,n,1.835445,L_109,foco,S_CE
+8,Renato_0112,l_selecao_v1_wav/L_94A.wav,0.444545,0.95402,0.902895,n,0.800695,L_94,foco,A_EC
+10,Renato_0112,l_selecao_v1_wav/L_49A.wav,0.912495,1.66596,0.462165,s,0.708415,L_49,foco,S_CE
+12,Renato_0112,l_selecao_v1_wav/L_77A.wav,0.99136,0.76262,0.65309,n,6.08908,L_77,foco,C
+13,Renato_0112,l_selecao_v1_wav/L_29A.wav,1.751165,1.301705,0.52078,s,1.025145,L_29,foco,C
+14,Renato_0112,l_selecao_v1_wav/L_99A.wav,0.674665,1.21434,0.167845,n,1.986155,L_99,foco,A_CE
+16,Renato_0112,l_selecao_v1_wav/L_39A.wav,0.31058,0.500565,0.794845,s,3.01955,L_39,foco,A_CE
+18,Renato_0112,l_selecao_v1_wav/L_58A.wav,19.223025,4.73768,0.913875,s,4.611645,L_58,foco,A_EC
+21,Renato_0112,l_selecao_v1_wav/L_104A.wav,0.168545,1.143385,0.919795,n,1.005005,L_104,foco,S_EC
+22,Renato_0112,l_selecao_v1_wav/L_120A.wav,1.842965,0.94692,0.54027,n,0.9764,L_120,foco,E
+25,Renato_0112,l_selecao_v1_wav/L_34A.wav,0.85603,0.87253,0.439245,s,1.64026,L_34,foco,A_EC
+27,Renato_0112,l_selecao_v1_wav/L_7A.wav,1.01451,1.145955,0.4523,n,0.49816,L_7,foco,S_CE
+32,Renato_0112,l_selecao_v1_wav/L_24A.wav,0.59504,4.620555,4.30315,s,1.77347,L_24,foco,E
+35,Renato_0112,l_selecao_v1_wav/L_86A.wav,0.55449,0.65644,0.63367,n,0.35413,L_86,foco,S_EC
+37,Renato_0112,l_selecao_v1_wav/L_2A.wav,0.560335,0.30144,0.57105,n,1.40923,L_2,foco,S_EC
+42,Renato_0112,l_selecao_v1_wav/L_141A.wav,0.31854,0.15629,0.02184,n,1.06934,L_141,foco,A_CE
+5,nome_0112,l_selecao_v1_wav/L_113A.wav,487,0.24,618,s,1706,L_113,foco,C
+8,nome_0112,l_selecao_v1_wav/L_92A.wav,337,334,354,s,1952,L_92,foco,S_EC
+10,nome_0112,l_selecao_v1_wav/L_53A.wav,336,372,422,s,606,L_53,foco,C
+12,nome_0112,l_selecao_v1_wav/L_75A.wav,839,1403,589,n,506,L_75,foco,A_CE
+13,nome_0112,l_selecao_v1_wav/L_27A.wav,0.54,539,958,n,1853,L_27,foco,A_CE
+14,nome_0112,l_selecao_v1_wav/L_97A.wav,435,0.37,506,n,1688,L_97,foco,S_CE
+16,nome_0112,l_selecao_v1_wav/L_37A.wav,337,291,418,n,519,L_37,foco,S_CE
+18,nome_0112,l_selecao_v1_wav/L_56A.wav,273,923,289,s,488,L_56,foco,S_EC
+21,nome_0112,l_selecao_v1_wav/L_108A.wav,0.94,1125,638,n,723,L_108,foco,E
+22,nome_0112,l_selecao_v1_wav/L_118A.wav,438,1054,538,s,1003,L_118,foco,A_EC
+25,nome_0112,l_selecao_v1_wav/L_32A.wav,823,489,768,s,2172,L_32,foco,S_EC
+27,nome_0112,l_selecao_v1_wav/L_11A.wav,1089,574,925,s,1089,L_11,foco,C
+32,nome_0112,l_selecao_v1_wav/L_22A.wav,487,741,937,n,2742,L_22,foco,A_EC
+35,nome_0112,l_selecao_v1_wav/L_90A.wav,337,289,558,n,1094,L_90,foco,E
+37,nome_0112,l_selecao_v1_wav/L_6A.wav,539,538,1.02,n,1656,L_6,foco,E
+42,nome_0112,l_selecao_v1_wav/L_139A.wav,355,0.39,508,n,323,L_139,foco,S_CE
+5,Eric_0112,l_selecao_v1_wav/L_114A.wav,1.127025,0.60774,1.35741,n,0.987625,L_114,foco,E
+8,Eric_0112,l_selecao_v1_wav/L_93A.wav,0.18708,2.929085,1.85038,n,3.234745,L_93,foco,A_CE
+10,Eric_0112,l_selecao_v1_wav/L_54A.wav,0.45868,0.434075,0.769255,n,4.77792,L_54,foco,E
+12,Eric_0112,l_selecao_v1_wav/L_76A.wav,0.33462,1.32161,2.05464,s,3.399275,L_76,foco,A_EC
+13,Eric_0112,l_selecao_v1_wav/L_28A.wav,0.300305,1.916445,0.806535,n,1.117835,L_28,foco,A_EC
+14,Eric_0112,l_selecao_v1_wav/L_98A.wav,0.262365,0.711155,0.38983,s,1.59419,L_98,foco,S_EC
+16,Eric_0112,l_selecao_v1_wav/L_38A.wav,0.90048,1.93011,0.890925,n,1.85777,L_38,foco,S_EC
+18,Eric_0112,l_selecao_v1_wav/L_57A.wav,0.18766,0.594265,0.689065,n,3.29495,L_57,foco,A_CE
+21,Eric_0112,l_selecao_v1_wav/L_103A.wav,0.49418,0.69972,0.914305,n,0.58811,L_103,foco,S_CE
+22,Eric_0112,l_selecao_v1_wav/L_119A.wav,0.678605,0.854515,1.102425,n,3.328085,L_119,foco,C
+25,Eric_0112,l_selecao_v1_wav/L_33A.wav,0.60887,0.68493,0.95254,n,1.22278,L_33,foco,A_CE
+27,Eric_0112,l_selecao_v1_wav/L_12A.wav,0.059245,0.267335,0.25293,n,0.256025,L_12,foco,E
+32,Eric_0112,l_selecao_v1_wav/L_23A.wav,0.09056,0.4223,0.30533,s,0.79538,L_23,foco,C
+35,Eric_0112,l_selecao_v1_wav/L_85A.wav,0.72062,2.597405,0.262745,n,0.77801,L_85,foco,S_CE
+37,Eric_0112,l_selecao_v1_wav/L_1A.wav,0.43548,0.809425,0.58421,n,2.485415,L_1,foco,S_CE
+42,Eric_0112,l_selecao_v1_wav/L_140A.wav,0.4907,0.611175,0.462185,n,0.67467,L_140,foco,S_EC
+5,AnaCarolina_2511,l_selecao_v1_wav/L_109A.wav,0.49343,1.29709,0.52824,s,1.435105,L_109,foco,S_CE
+8,AnaCarolina_2511,l_selecao_v1_wav/L_94A.wav,0.45122,0.3722,0.610565,s,7.418285,L_94,foco,A_EC
+10,AnaCarolina_2511,l_selecao_v1_wav/L_49A.wav,0.9008,0.60717,0.589155,s,2.153745,L_49,foco,S_CE
+12,AnaCarolina_2511,l_selecao_v1_wav/L_77A.wav,0.75131,0.55585,1.001005,s,0.710465,L_77,foco,C
+13,AnaCarolina_2511,l_selecao_v1_wav/L_29A.wav,0.67559,0.811255,0.644735,s,0.88717,L_29,foco,C
+14,AnaCarolina_2511,l_selecao_v1_wav/L_99A.wav,0.626455,0.29412,0.65884,n,5.89162,L_99,foco,A_CE
+16,AnaCarolina_2511,l_selecao_v1_wav/L_39A.wav,0.664945,0.392805,0.388535,s,5.912725,L_39,foco,A_CE
+18,AnaCarolina_2511,l_selecao_v1_wav/L_58A.wav,0.83515,0.32472,0.475775,s,4.89195,L_58,foco,A_EC
+21,AnaCarolina_2511,l_selecao_v1_wav/L_104A.wav,715,0.207165,0.63282,s,1.70067,L_104,foco,S_EC
+22,AnaCarolina_2511,l_selecao_v1_wav/L_120A.wav,0.657385,0.47987,0.612705,s,0.606495,L_120,foco,E
+25,AnaCarolina_2511,l_selecao_v1_wav/L_34A.wav,0.58597,0.18874,0.90664,n,5.363955,L_34,foco,A_EC
+27,AnaCarolina_2511,l_selecao_v1_wav/L_7A.wav,0.14361,0.062015,0.209895,s,0.592625,L_7,foco,S_CE
+32,AnaCarolina_2511,l_selecao_v1_wav/L_24A.wav,0.425805,0.251925,0.364815,s,0.718215,L_24,foco,E
+35,AnaCarolina_2511,l_selecao_v1_wav/L_86A.wav,0.65018,0.594605,0.25044,s,0.6229,L_86,foco,S_EC
+37,AnaCarolina_2511,l_selecao_v1_wav/L_2A.wav,0.19394,0.225895,0.198025,s,0.834165,L_2,foco,S_EC
+42,AnaCarolina_2511,l_selecao_v1_wav/L_141A.wav,0.60444,0.55024,0.891835,s,1.5277,L_141,foco,A_CE
+5,IGOR_01.12.2020,l_selecao_v1_wav/L_112A.wav,0.509375,0.95152,1.277235,s,4.336135,L_112,foco,A_EC
+8,IGOR_01.12.2020,l_selecao_v1_wav/L_91A.wav,0.56775,0.610975,1.058095,n,1.309355,L_91,foco,S_CE
+10,IGOR_01.12.2020,l_selecao_v1_wav/L_52A.wav,0.929505,1.17948,0.858145,s,4.70559,L_52,foco,A_EC
+12,IGOR_01.12.2020,l_selecao_v1_wav/L_74A.wav,0.519565,1.0801,0.986655,s,1.68392,L_74,foco,S_EC
+13,IGOR_01.12.2020,l_selecao_v1_wav/L_26A.wav,0.52191,0.65143,0.585485,s,1.516955,L_26,foco,S_EC
+14,IGOR_01.12.2020,l_selecao_v1_wav/L_102A.wav,0.98749,1.051275,0.701025,n,2.668895,L_102,foco,E
+16,IGOR_01.12.2020,l_selecao_v1_wav/L_42A.wav,0.736165,0.67298,0.503525,n,2.804405,L_42,foco,E
+18,IGOR_01.12.2020,l_selecao_v1_wav/L_55A.wav,0.67435,1.994085,1.528795,n,1.358095,L_55,foco,S_CE
+21,IGOR_01.12.2020,l_selecao_v1_wav/L_107A.wav,0.679645,0.50034,0.85584,s,1.98448,L_107,foco,C
+22,IGOR_01.12.2020,l_selecao_v1_wav/L_117A.wav,0.472585,0.53435,0.55499,n,0.73611,L_117,foco,A_CE
+25,IGOR_01.12.2020,l_selecao_v1_wav/L_31A.wav,0.668045,0.628635,1.211095,n,2.94986,L_31,foco,S_CE
+27,IGOR_01.12.2020,l_selecao_v1_wav/L_10A.wav,0.41051,0.39059,0.878495,s,2.153385,L_10,foco,A_EC
+32,IGOR_01.12.2020,l_selecao_v1_wav/L_21A.wav,1.48118,1.818125,0.719295,n,3.286515,L_21,foco,A_CE
+35,IGOR_01.12.2020,l_selecao_v1_wav/L_89A.wav,0.57307,0.591695,0.408135,s,0.883655,L_89,foco,C
+37,IGOR_01.12.2020,l_selecao_v1_wav/L_5A.wav,0.867875,0.65142,0.476845,s,0.901365,L_5,foco,C
+42,IGOR_01.12.2020,l_selecao_v1_wav/L_144A.wav,0.4003,0.456935,1.451395,n,2.69804,L_144,foco,E
+5,Bruno_2411,l_selecao_v1_wav/L_114A.wav,0.73658,0.440435,1.39256,n,0.60626,L_114,foco,E
+8,Bruno_2411,l_selecao_v1_wav/L_93A.wav,0.59135,3.4802,0.55477,n,0.87031,L_93,foco,A_CE
+10,Bruno_2411,l_selecao_v1_wav/L_54A.wav,0.65565,1.470115,0.80865,n,9.78974,L_54,foco,E
+12,Bruno_2411,l_selecao_v1_wav/L_76A.wav,0.442605,1.268935,1.454465,s,4.840395,L_76,foco,A_EC
+13,Bruno_2411,l_selecao_v1_wav/L_28A.wav,0.537345,0.98744,1.672315,s,5.917445,L_28,foco,A_EC
+14,Bruno_2411,l_selecao_v1_wav/L_98A.wav,0.89456,1.38803,0.7809,s,1.223185,L_98,foco,S_EC
+16,Bruno_2411,l_selecao_v1_wav/L_38A.wav,0.89103,1.253215,0.65401,s,5.580955,L_38,foco,S_EC
+18,Bruno_2411,l_selecao_v1_wav/L_57A.wav,0.8185,1.27056,0.47292,n,0.641765,L_57,foco,A_CE
+21,Bruno_2411,l_selecao_v1_wav/L_103A.wav,0.61194,0.83976,0.49454,n,0.615025,L_103,foco,S_CE
+22,Bruno_2411,l_selecao_v1_wav/L_119A.wav,0.333155,0.437945,1.854055,s,2.616555,L_119,foco,C
+25,Bruno_2411,l_selecao_v1_wav/L_33A.wav,0.857535,0.78775,0.390905,n,2.173455,L_33,foco,A_CE
+27,Bruno_2411,l_selecao_v1_wav/L_12A.wav,0.734675,0.78998,0.4221,n,0.977465,L_12,foco,E
+32,Bruno_2411,l_selecao_v1_wav/L_23A.wav,0.590965,0.62762,0.654335,s,2.021635,L_23,foco,C
+35,Bruno_2411,l_selecao_v1_wav/L_85A.wav,0.47722,0.689305,0.53822,n,0.48694,L_85,foco,S_CE
+37,Bruno_2411,l_selecao_v1_wav/L_1A.wav,0.589455,0.96766,2.33969,n,0.942515,L_1,foco,S_CE
+42,Bruno_2411,l_selecao_v1_wav/L_140A.wav,0.36315,0.45229,0.545875,s,0.78467,L_140,foco,S_EC
+5,may,l_selecao_v1_wav/L_113A.wav,1.423605,1.05057,0.78302,s,1.899035,L_113,foco,C
+8,may,l_selecao_v1_wav/L_92A.wav,1.136805,8.69147,0.373875,s,8.53917,L_92,foco,S_EC
+10,may,l_selecao_v1_wav/L_53A.wav,1.326615,0.270995,0.36834,s,4.500645,L_53,foco,C
+12,may,l_selecao_v1_wav/L_75A.wav,1.33176,2.730415,1.636235,s,3.67742,L_75,foco,A_CE
+13,may,l_selecao_v1_wav/L_27A.wav,1.243055,0.614345,0.770905,n,0.56645,L_27,foco,A_CE
+14,may,l_selecao_v1_wav/L_97A.wav,1.45296,1.221095,1.347005,s,3.43401,L_97,foco,S_CE
+16,may,l_selecao_v1_wav/L_37A.wav,0.25634,0.65067,0.876265,n,0.53569,L_37,foco,S_CE
+18,may,l_selecao_v1_wav/L_56A.wav,1.516905,0.70381,0.85813,s,8.08574,L_56,foco,S_EC
+21,may,l_selecao_v1_wav/L_108A.wav,0.76763,2.07689,1.126515,n,1.39038,L_108,foco,E
+22,may,l_selecao_v1_wav/L_118A.wav,0.645105,0.52506,1.017795,n,3.89313,L_118,foco,A_EC
+25,may,l_selecao_v1_wav/L_32A.wav,1.720395,1.92947,1.14558,n,9.85471,L_32,foco,S_EC
+27,may,l_selecao_v1_wav/L_11A.wav,0.82253,0.108255,0.41256,s,2.10193,L_11,foco,C
+32,may,l_selecao_v1_wav/L_22A.wav,11.47555,2.584995,1.36248,s,0.972425,L_22,foco,A_EC
+35,may,l_selecao_v1_wav/L_90A.wav,0.573705,0.50104,1.53854,n,1.0753,L_90,foco,E
+37,may,l_selecao_v1_wav/L_6A.wav,0.944785,0.773595,1.038715,n,3.86954,L_6,foco,E
+42,may,l_selecao_v1_wav/L_139A.wav,1.403135,1.081605,2.01274,n,5.19796,L_139,foco,S_CE
+5,Arthur Jordão,l_selecao_v1_wav/L_112A.wav,0.562645,0.50343,0.802615,s,0.768865,L_112,foco,A_EC
+8,Arthur Jordão,l_selecao_v1_wav/L_91A.wav,0.48998,0.716085,0.586725,s,2.41813,L_91,foco,S_CE
+10,Arthur Jordão,l_selecao_v1_wav/L_52A.wav,0.58718,0.454435,0.533055,s,0.85097,L_52,foco,A_EC
+12,Arthur Jordão,l_selecao_v1_wav/L_74A.wav,0.436485,0.56695,0.811235,s,1.154295,L_74,foco,S_EC
+13,Arthur Jordão,l_selecao_v1_wav/L_26A.wav,0.38315,0.938905,0.383375,s,10.348165,L_26,foco,S_EC
+14,Arthur Jordão,l_selecao_v1_wav/L_102A.wav,0.309025,0.450385,0.443455,n,1.00086,L_102,foco,E
+16,Arthur Jordão,l_selecao_v1_wav/L_42A.wav,0.35729,0.503695,0.355415,s,0.42286,L_42,foco,E
+18,Arthur Jordão,l_selecao_v1_wav/L_55A.wav,0.7723,0.566535,0.401145,s,1.27834,L_55,foco,S_CE
+21,Arthur Jordão,l_selecao_v1_wav/L_107A.wav,0.320415,0.371415,0.57068,s,2.268455,L_107,foco,C
+22,Arthur Jordão,l_selecao_v1_wav/L_117A.wav,0.438765,0.35113,0.33267,s,0.81928,L_117,foco,A_CE
+25,Arthur Jordão,l_selecao_v1_wav/L_31A.wav,0.300595,0.525915,0.42204,s,0.659055,L_31,foco,S_CE
+27,Arthur Jordão,l_selecao_v1_wav/L_10A.wav,0.416925,0.28517,0.385215,s,4.970075,L_10,foco,A_EC
+32,Arthur Jordão,l_selecao_v1_wav/L_21A.wav,0.208775,0.472895,0.389645,n,3.193155,L_21,foco,A_CE
+35,Arthur Jordão,l_selecao_v1_wav/L_89A.wav,0.234885,0.371555,0.34203,s,0.821635,L_89,foco,C
+37,Arthur Jordão,l_selecao_v1_wav/L_5A.wav,0.7676,1.00387,0.27885,s,2.18622,L_5,foco,C
+42,Arthur Jordão,l_selecao_v1_wav/L_144A.wav,0.386505,0.48481,0.338865,s,2.700175,L_144,foco,E
+5,Caio_0312,l_selecao_v1_wav/L_110A.wav,1.106095,0.966685,1.233095,n,11.693225,L_110,foco,S_EC
+8,Caio_0312,l_selecao_v1_wav/L_95A.wav,0.707685,0.921935,0.41971,n,2.87509,L_95,foco,C
+10,Caio_0312,l_selecao_v1_wav/L_50A.wav,1.634765,0.63213,1.04827,s,6.17306,L_50,foco,S_EC
+12,Caio_0312,l_selecao_v1_wav/L_78A.wav,1.35177,1.112515,1.026715,s,5.162935,L_78,foco,E
+13,Caio_0312,l_selecao_v1_wav/L_30A.wav,0.34656,0.59457,0.027855,n,0.716175,L_30,foco,E
+14,Caio_0312,l_selecao_v1_wav/L_100A.wav,0.330945,0.45537,0.430435,s,0.91637,L_100,foco,A_EC
+16,Caio_0312,l_selecao_v1_wav/L_40A.wav,0.66134,0.864335,0.531035,n,2.159485,L_40,foco,A_EC
+18,Caio_0312,l_selecao_v1_wav/L_59A.wav,1.09172,0.57036,0.070885,s,1.881545,L_59,foco,C
+21,Caio_0312,l_selecao_v1_wav/L_105A.wav,1.471855,0.612725,0.958355,n,0.353285,L_105,foco,A_CE
+22,Caio_0312,l_selecao_v1_wav/L_115A.wav,1.05691,0.17206,1.04961,n,0.263825,L_115,foco,S_CE
+25,Caio_0312,l_selecao_v1_wav/L_35A.wav,0.321815,0.79494,0.495105,s,1.442465,L_35,foco,C
+27,Caio_0312,l_selecao_v1_wav/L_8A.wav,1.486135,0.43972,0.580285,s,2.48325,L_8,foco,S_EC
+32,Caio_0312,l_selecao_v1_wav/L_19A.wav,0.89897,0.855345,0.881085,n,0.32883,L_19,foco,S_CE
+35,Caio_0312,l_selecao_v1_wav/L_87A.wav,1.05209,1.13737,0.492855,n,0.776565,L_87,foco,A_CE
+37,Caio_0312,l_selecao_v1_wav/L_3A.wav,1.40701,0.90794,1.1892,n,1.89248,L_3,foco,A_CE
+42,Caio_0312,l_selecao_v1_wav/L_142A.wav,0.797845,0.515615,0.675315,n,0.50344,L_142,foco,A_EC
+5,Clayton_2811,l_selecao_v1_wav/L_114A.wav,1.73651,1.020545,1.564965,n,1.540825,L_114,foco,E
+8,Clayton_2811,l_selecao_v1_wav/L_93A.wav,1.140435,5.806675,1.148415,n,6.641135,L_93,foco,A_CE
+10,Clayton_2811,l_selecao_v1_wav/L_54A.wav,0.78547,0.76668,2.61385,s,2.835005,L_54,foco,E
+12,Clayton_2811,l_selecao_v1_wav/L_76A.wav,1.733785,1.808505,5.19662,n,11.726315,L_76,foco,A_EC
+13,Clayton_2811,l_selecao_v1_wav/L_28A.wav,0.92725,5.83578,2.84632,n,68.48671,L_28,foco,A_EC
+14,Clayton_2811,l_selecao_v1_wav/L_98A.wav,1.423385,0.971135,4.047525,s,0.802825,L_98,foco,S_EC
+16,Clayton_2811,l_selecao_v1_wav/L_38A.wav,0.416835,0.732305,1.13066,s,8.390975,L_38,foco,S_EC
+18,Clayton_2811,l_selecao_v1_wav/L_57A.wav,0.560785,2.018935,1.12137,s,0.8054,L_57,foco,A_CE
+21,Clayton_2811,l_selecao_v1_wav/L_103A.wav,0.688185,0.65498,3.41359,n,1.46477,L_103,foco,S_CE
+22,Clayton_2811,l_selecao_v1_wav/L_119A.wav,1.451805,0.88809,0.689685,s,2.82141,L_119,foco,C
+25,Clayton_2811,l_selecao_v1_wav/L_33A.wav,0.5565,1.37304,0.745325,n,4.26146,L_33,foco,A_CE
+27,Clayton_2811,l_selecao_v1_wav/L_12A.wav,0.701675,1.50014,0.466095,n,2.33472,L_12,foco,E
+32,Clayton_2811,l_selecao_v1_wav/L_23A.wav,0.59453,0.903215,0.48905,s,2.691525,L_23,foco,C
+35,Clayton_2811,l_selecao_v1_wav/L_85A.wav,0.3843,0.91938,1.76769,n,0.886305,L_85,foco,S_CE
+37,Clayton_2811,l_selecao_v1_wav/L_1A.wav,0.36587,0.941085,3.25626,s,0.518385,L_1,foco,S_CE
+42,Clayton_2811,l_selecao_v1_wav/L_140A.wav,0.359725,0.45916,3.27812,s,0.80099,L_140,foco,S_EC
+5,Leonardo_0912,l_selecao_v1_wav/L_111A.wav,1.190595,3.1942,0.649455,n,0.50603,L_111,foco,A_CE
+8,Leonardo_0912,l_selecao_v1_wav/L_96A.wav,0.471005,0.417795,1.353955,n,0.545405,L_96,foco,E
+10,Leonardo_0912,l_selecao_v1_wav/L_51A.wav,0.72535,1.069245,0.272885,n,0.693505,L_51,foco,A_CE
+12,Leonardo_0912,l_selecao_v1_wav/L_73A.wav,0.68568,0.850425,2.74806,n,0.66944,L_73,foco,S_CE
+13,Leonardo_0912,l_selecao_v1_wav/L_25A.wav,1.179225,1411,1.459905,n,0.500805,L_25,foco,S_CE
+14,Leonardo_0912,l_selecao_v1_wav/L_101A.wav,0.78391,0.716295,0.45391,s,0.704785,L_101,foco,C
+16,Leonardo_0912,l_selecao_v1_wav/L_41A.wav,0.816675,0.36715,0.583445,s,6.256705,L_41,foco,C
+18,Leonardo_0912,l_selecao_v1_wav/L_60A.wav,1.058665,0.43405,0.16815,n,3.04739,L_60,foco,E
+21,Leonardo_0912,l_selecao_v1_wav/L_106A.wav,0.883615,0.4852,0.474545,s,2.631105,L_106,foco,A_EC
+22,Leonardo_0912,l_selecao_v1_wav/L_116A.wav,0.638375,0.844355,0.550285,s,3.43209,L_116,foco,S_EC
+25,Leonardo_0912,l_selecao_v1_wav/L_36A.wav,0.310845,0.33984,0.53133,n,0.451875,L_36,foco,E
+27,Leonardo_0912,l_selecao_v1_wav/L_9A.wav,0.529745,0.92637,0.890795,n,0.933115,L_9,foco,A_CE
+32,Leonardo_0912,l_selecao_v1_wav/L_20A.wav,0.287755,0.850225,0.7,s,0.460195,L_20,foco,S_EC
+35,Leonardo_0912,l_selecao_v1_wav/L_88A.wav,0.538745,0.452285,0.62189,s,1.872765,L_88,foco,A_EC
+37,Leonardo_0912,l_selecao_v1_wav/L_4A.wav,0.53497,0.741105,0.943035,s,0.737875,L_4,foco,A_EC
+42,Leonardo_0912,l_selecao_v1_wav/L_143A.wav,0.766505,0.4355,0.95768,s,1.06101,L_143,foco,C
+5,SAMANTHA_2611,l_selecao_v1_wav/L_110A.wav,0.42181,0.455375,0.60409,s,0.829495,L_110,foco,S_EC
+8,SAMANTHA_2611,l_selecao_v1_wav/L_95A.wav,0.940995,704,0.58942,s,0.99248,L_95,foco,C
+10,SAMANTHA_2611,l_selecao_v1_wav/L_50A.wav,0.79165,0.355555,0.33693,s,1.177535,L_50,foco,S_EC
+12,SAMANTHA_2611,l_selecao_v1_wav/L_78A.wav,1.11202,0.777995,1.378245,n,0.97639,L_78,foco,E
+13,SAMANTHA_2611,l_selecao_v1_wav/L_30A.wav,0.7239,0.47291,0.88962,n,1.763305,L_30,foco,E
+14,SAMANTHA_2611,l_selecao_v1_wav/L_100A.wav,0.27088,1.829585,0.73981,s,1.56183,L_100,foco,A_EC
+16,SAMANTHA_2611,l_selecao_v1_wav/L_40A.wav,0.40409,1.009575,24.029715,s,2.11714,L_40,foco,A_EC
+18,SAMANTHA_2611,l_selecao_v1_wav/L_59A.wav,0.43669,0.62263,0.21963,s,1.143475,L_59,foco,C
+21,SAMANTHA_2611,l_selecao_v1_wav/L_105A.wav,0.37074,0.336615,0.80667,s,1.02624,L_105,foco,A_CE
+22,SAMANTHA_2611,l_selecao_v1_wav/L_115A.wav,0.252755,0.427135,0.844515,s,0.723455,L_115,foco,S_CE
+25,SAMANTHA_2611,l_selecao_v1_wav/L_35A.wav,0.271025,0.813965,0.36732,s,1.07497,L_35,foco,C
+27,SAMANTHA_2611,l_selecao_v1_wav/L_8A.wav,0.72441,0.34351,0.35427,s,0.87478,L_8,foco,S_EC
+32,SAMANTHA_2611,l_selecao_v1_wav/L_19A.wav,0.454305,0.193945,3.22451,s,6.425605,L_19,foco,S_CE
+35,SAMANTHA_2611,l_selecao_v1_wav/L_87A.wav,0.51014,0.55462,0.350965,s,0.891135,L_87,foco,A_CE
+37,SAMANTHA_2611,l_selecao_v1_wav/L_3A.wav,0.302645,0.320355,0.17219,n,1.277805,L_3,foco,A_CE
+42,SAMANTHA_2611,l_selecao_v1_wav/L_142A.wav,0.238975,0.32081,0.303685,s,0.544595,L_142,foco,A_EC
+5,MATHEUSSILVA_251120,l_selecao_v1_wav/L_109A.wav,0.63537,0.52793,0.45181,s,3.49429,L_109,foco,S_CE
+8,MATHEUSSILVA_251120,l_selecao_v1_wav/L_94A.wav,0.67626,0.169955,0.68044,n,1.438955,L_94,foco,A_EC
+10,MATHEUSSILVA_251120,l_selecao_v1_wav/L_49A.wav,1.117725,0.546605,0.560665,n,0.87913,L_49,foco,S_CE
+12,MATHEUSSILVA_251120,l_selecao_v1_wav/L_77A.wav,0.7525,0.41955,0.23409,s,0.695585,L_77,foco,C
+13,MATHEUSSILVA_251120,l_selecao_v1_wav/L_29A.wav,0.983725,0.207665,0.306115,s,0.976485,L_29,foco,C
+14,MATHEUSSILVA_251120,l_selecao_v1_wav/L_99A.wav,0.81696,0.504805,0.378755,n,2.37157,L_99,foco,A_CE
+16,MATHEUSSILVA_251120,l_selecao_v1_wav/L_39A.wav,0.524375,0.401995,0.234525,n,1.254475,L_39,foco,A_CE
+18,MATHEUSSILVA_251120,l_selecao_v1_wav/L_58A.wav,0.283895,0.93923,0.18482,n,1.274675,L_58,foco,A_EC
+21,MATHEUSSILVA_251120,l_selecao_v1_wav/L_104A.wav,0.21754,0.474045,0.218075,s,0.68878,L_104,foco,S_EC
+22,MATHEUSSILVA_251120,l_selecao_v1_wav/L_120A.wav,1.275875,0.569805,0.49214,s,0.78467,L_120,foco,E
+25,MATHEUSSILVA_251120,l_selecao_v1_wav/L_34A.wav,0.48659,0.40772,0.21776,n,0.95011,L_34,foco,A_EC
+27,MATHEUSSILVA_251120,l_selecao_v1_wav/L_7A.wav,1.52539,0.11902,0.08468,n,0.93347,L_7,foco,S_CE
+32,MATHEUSSILVA_251120,l_selecao_v1_wav/L_24A.wav,0.61153,0.185065,0.1627,n,1.334975,L_24,foco,E
+35,MATHEUSSILVA_251120,l_selecao_v1_wav/L_86A.wav,0.53704,0.477945,0.7232,n,2.98203,L_86,foco,S_EC
+37,MATHEUSSILVA_251120,l_selecao_v1_wav/L_2A.wav,0.880235,0.30527,0.233905,s,0.72721,L_2,foco,S_EC
+42,MATHEUSSILVA_251120,l_selecao_v1_wav/L_141A.wav,1.455205,0.32355,0.86915,n,0.87914,L_141,foco,A_CE
+5,jessica,l_selecao_v1_wav/L_110A.wav,16203,2.0195,0.2734,s,2154,L_110,foco,S_EC
+8,jessica,l_selecao_v1_wav/L_95A.wav,0.3743,0.5676,0.5295,s,1.2174,L_95,foco,C
+10,jessica,l_selecao_v1_wav/L_50A.wav,0.8074,0.9768,0.2899,s,1.0535,L_50,foco,S_EC
+12,jessica,l_selecao_v1_wav/L_78A.wav,1.0066,0.7586,1.1512,s,1.6838,L_78,foco,E
+13,jessica,l_selecao_v1_wav/L_30A.wav,1238,567,0.3515,n,3.3257,L_30,foco,E
+14,jessica,l_selecao_v1_wav/L_100A.wav,0.3343,0.6388,312,s,0.8572,L_100,foco,A_EC
+16,jessica,l_selecao_v1_wav/L_40A.wav,0.2679,0.5063,0.4122,n,0.8797,L_40,foco,A_EC
+18,jessica,l_selecao_v1_wav/L_59A.wav,0.7722,0.7179,0.1715,s,1.2756,L_59,foco,C
+21,jessica,l_selecao_v1_wav/L_105A.wav,0.5515,1306,1.0673,n,0.6348,L_105,foco,A_CE
+22,jessica,l_selecao_v1_wav/L_115A.wav,0.1374,0.8174,0.5946,n,0.4409,L_115,foco,S_CE
+25,jessica,l_selecao_v1_wav/L_35A.wav,0.9351,0.6408,0.1257,s,1.0848,L_35,foco,C
+27,jessica,l_selecao_v1_wav/L_8A.wav,0.9839,0.4673,0.3509,s,1.0887,L_8,foco,S_EC
+32,jessica,l_selecao_v1_wav/L_19A.wav,0.5177,0.5008,0.2014,n,0.9754,L_19,foco,S_CE
+35,jessica,l_selecao_v1_wav/L_87A.wav,1.5035,0.3561,0.4217,n,0.4719,L_87,foco,A_CE
+37,jessica,l_selecao_v1_wav/L_3A.wav,0.4084,0.5567,0.0509,n,0.5504,L_3,foco,A_CE
+42,jessica,l_selecao_v1_wav/L_142A.wav,0.5672,0.6373,0.1343,n,1.0501,L_142,foco,A_EC
+5,Elisa_0812,l_selecao_v1_wav/L_110A.wav,0.93985,1.255885,1.976205,n,4.02335,L_110,foco,S_EC
+8,Elisa_0812,l_selecao_v1_wav/L_95A.wav,0.518525,0.917595,0.81756,s,0.516565,L_95,foco,C
+10,Elisa_0812,l_selecao_v1_wav/L_50A.wav,1.522665,2.10512,1.721845,n,1.294285,L_50,foco,S_EC
+12,Elisa_0812,l_selecao_v1_wav/L_78A.wav,1.17128,2.222765,0.952825,n,0.458055,L_78,foco,E
+13,Elisa_0812,l_selecao_v1_wav/L_30A.wav,0.585455,1.47074,1.38794,s,9.447145,L_30,foco,E
+14,Elisa_0812,l_selecao_v1_wav/L_100A.wav,0.886745,2.44031,1.05078,s,0.750795,L_100,foco,A_EC
+16,Elisa_0812,l_selecao_v1_wav/L_40A.wav,0.75463,1.287915,1.27398,n,2.8612,L_40,foco,A_EC
+18,Elisa_0812,l_selecao_v1_wav/L_59A.wav,1.14281,0.983205,0.63317,s,1.034945,L_59,foco,C
+21,Elisa_0812,l_selecao_v1_wav/L_105A.wav,1.523065,0.825635,0.785745,n,2.606425,L_105,foco,A_CE
+22,Elisa_0812,l_selecao_v1_wav/L_115A.wav,0.89983,2.073385,0.636715,s,0.971325,L_115,foco,S_CE
+25,Elisa_0812,l_selecao_v1_wav/L_35A.wav,0.98714,0.79055,0.85463,s,3.245605,L_35,foco,C
+27,Elisa_0812,l_selecao_v1_wav/L_8A.wav,1.070445,1.11763,1.560375,n,0.90362,L_8,foco,S_EC
+32,Elisa_0812,l_selecao_v1_wav/L_19A.wav,1.420825,0.83822,0.69999,s,1.02001,L_19,foco,S_CE
+35,Elisa_0812,l_selecao_v1_wav/L_87A.wav,0.63637,0.890475,1.408605,n,0.769615,L_87,foco,A_CE
+37,Elisa_0812,l_selecao_v1_wav/L_3A.wav,0.50559,0.703295,2.621345,n,0.684105,L_3,foco,A_CE
+42,Elisa_0812,l_selecao_v1_wav/L_142A.wav,0.78635,1.521075,1.137155,n,4.900875,L_142,foco,A_EC
+5,Aline,l_selecao_v1_wav/L_112A.wav,1.625965,1.5269,2.49559,n,14.220095,L_112,foco,A_EC
+8,Aline,l_selecao_v1_wav/L_91A.wav,0.96227,1.341035,1.218495,n,7.23537,L_91,foco,S_CE
+10,Aline,l_selecao_v1_wav/L_52A.wav,1.384625,1.135375,2.295195,s,3.603665,L_52,foco,A_EC
+12,Aline,l_selecao_v1_wav/L_74A.wav,0.759265,0.80173,1.61774,s,3.084935,L_74,foco,S_EC
+13,Aline,l_selecao_v1_wav/L_26A.wav,1.40559,1.76681,1.202145,s,3.640115,L_26,foco,S_EC
+14,Aline,l_selecao_v1_wav/L_102A.wav,1.55106,1.001115,1.40112,n,2.378685,L_102,foco,E
+16,Aline,l_selecao_v1_wav/L_42A.wav,0.750815,0.97514,0.48476,n,1.48392,L_42,foco,E
+18,Aline,l_selecao_v1_wav/L_55A.wav,1.000925,3.6048,0.85391,n,6.234415,L_55,foco,S_CE
+21,Aline,l_selecao_v1_wav/L_107A.wav,0.668265,0.528855,0.407605,s,0.8862,L_107,foco,C
+22,Aline,l_selecao_v1_wav/L_117A.wav,0.98475,0.63637,1.03969,n,4.863825,L_117,foco,A_CE
+25,Aline,l_selecao_v1_wav/L_31A.wav,0.534175,0.427895,1.15192,n,4.88411,L_31,foco,S_CE
+27,Aline,l_selecao_v1_wav/L_10A.wav,1.28472,1.89251,0.72055,s,1.917115,L_10,foco,A_EC
+32,Aline,l_selecao_v1_wav/L_21A.wav,0.80477,1.046325,1.12069,n,2.62245,L_21,foco,A_CE
+35,Aline,l_selecao_v1_wav/L_89A.wav,0.26831,1.242285,2.766135,n,17.65841,L_89,foco,C
+37,Aline,l_selecao_v1_wav/L_5A.wav,1.517745,1.10671,1.677965,s,2.53885,L_5,foco,C
+42,Aline,l_selecao_v1_wav/L_144A.wav,0.26717,0.80522,0.439005,n,2.34064,L_144,foco,E
+5,Mikaela_1911,l_selecao_v1_wav/L_114A.wav,2.01125,1.38635,1.40444,n,1.309215,L_114,foco,E
+8,Mikaela_1911,l_selecao_v1_wav/L_93A.wav,1.234945,1.25414,2.49245,s,1.08509,L_93,foco,A_CE
+10,Mikaela_1911,l_selecao_v1_wav/L_54A.wav,1.673575,0.8005,0.725355,n,1.086975001,L_54,foco,E
+12,Mikaela_1911,l_selecao_v1_wav/L_76A.wav,1.10994,1.36079,1.954995,s,1.99072,L_76,foco,A_EC
+13,Mikaela_1911,l_selecao_v1_wav/L_28A.wav,2.101720001,1.0107,1.02276,n,1.084295,L_28,foco,A_EC
+14,Mikaela_1911,l_selecao_v1_wav/L_98A.wav,1.424015,1.64504,1.034505,s,0.917535,L_98,foco,S_EC
+16,Mikaela_1911,l_selecao_v1_wav/L_38A.wav,0.970645,1.52665,2.46955,n,1.442550001,L_38,foco,S_EC
+18,Mikaela_1911,l_selecao_v1_wav/L_57A.wav,1.51972,1.518725,1.338495,n,2.922385,L_57,foco,A_CE
+21,Mikaela_1911,l_selecao_v1_wav/L_103A.wav,1.00642,1.635904999,0.802999999,s,1.140735,L_103,foco,S_CE
+22,Mikaela_1911,l_selecao_v1_wav/L_119A.wav,0.95279,0.81928,1.253125,s,1.08714,L_119,foco,C
+25,Mikaela_1911,l_selecao_v1_wav/L_33A.wav,0.872730001,1.217805,0.803285,s,1.185875,L_33,foco,A_CE
+27,Mikaela_1911,l_selecao_v1_wav/L_12A.wav,2.46368,2.85043,0.806725,n,0.90706,L_12,foco,E
+32,Mikaela_1911,l_selecao_v1_wav/L_23A.wav,0.973154999,1.39164,0.840984999,s,1.35849,L_23,foco,C
+35,Mikaela_1911,l_selecao_v1_wav/L_85A.wav,1.084525,0.965954999,1.05325,n,1.89347,L_85,foco,S_CE
+37,Mikaela_1911,l_selecao_v1_wav/L_1A.wav,0.77138,0.86858,1.83798,n,0.974015,L_1,foco,S_CE
+42,Mikaela_1911,l_selecao_v1_wav/L_140A.wav,1.435085,0.985165,0.835485,s,1.15777,L_140,foco,S_EC
+5,Laira,l_selecao_v1_wav/L_112A.wav,0.96603,1.067935,2.619675,n,1.21769,L_112,foco,A_EC
+8,Laira,l_selecao_v1_wav/L_91A.wav,1.03384,1.002325,1.30301,s,0.99066,L_91,foco,S_CE
+10,Laira,l_selecao_v1_wav/L_52A.wav,1.13992,0.884245,1.12782,n,0.36698,L_52,foco,A_EC
+12,Laira,l_selecao_v1_wav/L_74A.wav,2.043485,0.723385,1.22784,s,0.23285,L_74,foco,S_EC
+13,Laira,l_selecao_v1_wav/L_26A.wav,0.56007,0.141795,0.602105,s,0.643085,L_26,foco,S_EC
+14,Laira,l_selecao_v1_wav/L_102A.wav,0.6954,0.53614,0.46716,n,0.18836,L_102,foco,E
+16,Laira,l_selecao_v1_wav/L_42A.wav,0.690625,0.36178,0.32168,n,0.918005,L_42,foco,E
+18,Laira,l_selecao_v1_wav/L_55A.wav,8.843805,0.83967,0.39051,n,4.69008,L_55,foco,S_CE
+21,Laira,l_selecao_v1_wav/L_107A.wav,1.66528,0.24186,0.25029,s,1.47576,L_107,foco,C
+22,Laira,l_selecao_v1_wav/L_117A.wav,1.28719,0.65199,0.90049,n,5.6738,L_117,foco,A_CE
+25,Laira,l_selecao_v1_wav/L_31A.wav,0.885175,0.450365,0.30912,s,1.48576,L_31,foco,S_CE
+27,Laira,l_selecao_v1_wav/L_10A.wav,0.820955,0.8951,2.576505,n,0.716505,L_10,foco,A_EC
+32,Laira,l_selecao_v1_wav/L_21A.wav,1.90578,0.433825,1.370555,n,0.85298,L_21,foco,A_CE
+35,Laira,l_selecao_v1_wav/L_89A.wav,13.79817,1.517895,0.80501,s,0.834305,L_89,foco,C
+37,Laira,l_selecao_v1_wav/L_5A.wav,2.59424,0.606565,0.103425,s,2.401405,L_5,foco,C
+42,Laira,l_selecao_v1_wav/L_144A.wav,0.83298,0.55085,0.79934,s,1.833135,L_144,foco,E
+5,Jessica_1412,l_selecao_v1_wav/L_111A.wav,1.033725,1.987585,3.566555,n,3.58836,L_111,foco,A_CE
+8,Jessica_1412,l_selecao_v1_wav/L_96A.wav,1.165945,1.398415,1.28172,n,1.400285,L_96,foco,E
+10,Jessica_1412,l_selecao_v1_wav/L_51A.wav,1.041805,1.16689,1.520265,n,1.533295,L_51,foco,A_CE
+12,Jessica_1412,l_selecao_v1_wav/L_73A.wav,0.77014,0.93738,1.670925,n,8.03341,L_73,foco,S_CE
+13,Jessica_1412,l_selecao_v1_wav/L_25A.wav,1.333335,0.757225,1.32138,n,2.60717,L_25,foco,S_CE
+14,Jessica_1412,l_selecao_v1_wav/L_101A.wav,2.25015,1.131165,0.76725,s,1.231265,L_101,foco,C
+16,Jessica_1412,l_selecao_v1_wav/L_41A.wav,1.004245,0.900795,1.656835,s,8.55018,L_41,foco,C
+18,Jessica_1412,l_selecao_v1_wav/L_60A.wav,1.383475,1.46863,2.08544,s,9.800435,L_60,foco,E
+21,Jessica_1412,l_selecao_v1_wav/L_106A.wav,1.13466,0.916795,1.900005,s,1.13914,L_106,foco,A_EC
+22,Jessica_1412,l_selecao_v1_wav/L_116A.wav,1.255545,2.883485,1.033545,s,15.82339,L_116,foco,S_EC
+25,Jessica_1412,l_selecao_v1_wav/L_36A.wav,1.106445,0.767465,1.21504,n,1.433395,L_36,foco,E
+27,Jessica_1412,l_selecao_v1_wav/L_9A.wav,0.85108,0.851615,0.73737,n,2.352335,L_9,foco,A_CE
+32,Jessica_1412,l_selecao_v1_wav/L_20A.wav,1.104055,0.703865,0.568975,s,2.60044,L_20,foco,S_EC
+35,Jessica_1412,l_selecao_v1_wav/L_88A.wav,0.84144,2.283495,0.707695,s,2.547885,L_88,foco,A_EC
+37,Jessica_1412,l_selecao_v1_wav/L_4A.wav,0.44127,1.535505,0.642315,s,4.56568,L_4,foco,A_EC
+42,Jessica_1412,l_selecao_v1_wav/L_143A.wav,0.73184,0.95089,0.683855,s,1.19105,L_143,foco,C
+5,Luna,l_selecao_v1_wav/L_113A.wav,0.93715,0.346165,0.65085,s,2.896155,L_113,foco,C
+8,Luna,l_selecao_v1_wav/L_92A.wav,0.90269,1.092735,1.197655,s,3.19018,L_92,foco,S_EC
+10,Luna,l_selecao_v1_wav/L_53A.wav,0.7859,0.847735,0.92105,s,5.00952,L_53,foco,C
+12,Luna,l_selecao_v1_wav/L_75A.wav,0.624195,8.62156,2.10423,n,3.022485,L_75,foco,A_CE
+13,Luna,l_selecao_v1_wav/L_27A.wav,1.08704,0.99868,0.84194,n,19.926535,L_27,foco,A_CE
+14,Luna,l_selecao_v1_wav/L_97A.wav,0.692345,0.75144,0.885735,n,3.23169,L_97,foco,S_CE
+16,Luna,l_selecao_v1_wav/L_37A.wav,1.331245,0.960415,0.73835,n,1.91453,L_37,foco,S_CE
+18,Luna,l_selecao_v1_wav/L_56A.wav,1.18738,1.34814,0.683655,s,2.7346,L_56,foco,S_EC
+21,Luna,l_selecao_v1_wav/L_108A.wav,0.96757,0.487725,0.71344,n,1.300595,L_108,foco,E
+22,Luna,l_selecao_v1_wav/L_118A.wav,0.477275,0.58666,1.15481,s,2.00363,L_118,foco,A_EC
+25,Luna,l_selecao_v1_wav/L_32A.wav,0.8932,0.78128,0.48596,s,8.692235,L_32,foco,S_EC
+27,Luna,l_selecao_v1_wav/L_11A.wav,0.61898,0.48941,0.55168,s,1.263325,L_11,foco,C
+32,Luna,l_selecao_v1_wav/L_22A.wav,0.686005,0.58139,0.57657,s,3.869035,L_22,foco,A_EC
+35,Luna,l_selecao_v1_wav/L_90A.wav,1.63875,0.524515,0.65652,n,1.150555,L_90,foco,E
+37,Luna,l_selecao_v1_wav/L_6A.wav,0.903595,0.453715,0.670615,n,2.733695,L_6,foco,E
+42,Luna,l_selecao_v1_wav/L_139A.wav,0.50804,0.616675,0.78651,n,1.727255,L_139,foco,S_CE
